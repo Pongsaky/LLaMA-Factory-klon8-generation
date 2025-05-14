@@ -1,0 +1,1952 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [a] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a]ตร</r> <r>[a]ว่า</r> <r>[a]มะ</r> <r>[a]อะ</r> <r>[a]ดระ</r> <r>[a]ล่า</r> <r>[a]ษะ</r> <r>[a]ขาร์</r> <r>[a]หวะ</r> <r>[a]ป๋า</r> <r>[a]ซะ</r> <r>[a]ฮาร์</r> <r>[a]ล้า</r> <r>[a]ข่า</r> <r>[a]มาร์</r> <r>[a]ตาร์</r> <r>[a]ษา</r> <r>[a]คา</r> <r>[a]ฐะ</r> <r>[a]ก๋า</r> <r>[a]ฑา</r> <r>[a]ดาห์</r> <r>[a]ผ่า</r> <r>[a]หย่า</r> <r>[a]ค่า</r> <r>[a]คลา</r> <r>[a]ฟ่า</r> <r>[a]กระ</r> <r>[a]ม่า</r> <r>[a]เมขลา</r> <r>[a]ล่ะ</r> <r>[a]หา</r> <r>[a]ลาร์</r> <r>[a]การ์</r> <r>[a]นาค์</r> <r>[a]ท้า</r> <r>[a]ต่า</r> <r>[a]คะ</r> <r>[a]กรา</r> <r>[a]ฆา</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [x]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x]แย้</r> <r>[x]แค่</r> <r>[x]แร</r> <r>[x]แขวะ</r> <r>[x]แวะ</r> <r>[x]แจ้</r> <r>[x]แม่</r> <r>[x]แหม</r> <r>[x]แบะ</r> <r>[x]แช</r> <r>[x]แฟะ</r> <r>[x]แค</r> <r>[x]แกระ</r> <r>[x]แร่</r> <r>[x]แง้</r> <r>[x]แฮะ</r> <r>[x]แพร</r> <r>[x]แข</r> <r>[x]แอ</r> <r>[x]แฉะ</r> <r>[x]แฉ่</r> <r>[x]แก</r> <r>[x]แย</r> <r>[x]แหละ</r> <r>[x]แพร่</r> <r>[x]แต้</r> <r>[x]แป้</r> <r>[x]แบ๊</r> <r>[x]แล่</r> <r>[x]แซ่</r> <r>[x]แประ</r> <r>[x]แหล</r> <r>[x]แตะ</r> <r>[x]แป</r> <r>[x]แผละ</r> <r>[x]แอ้</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [ua][k] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][k]พวก</r> <r>[ua][k]หมวก</r> <r>[ua][k]หยวก</r> <r>[ua][k]หนวก</r> <r>[ua][k]พลวก</r> <r>[ua][k]อวก</r> <r>[ua][k]มวก</r> <r>[ua][k]นวก</r> <r>[ua][k]รวก</r> <r>[ua][k]บวก</r> <r>[ua][k]อ้วก</r> <r>[ua][k]ปลวก</r> <r>[ua][k]ดวก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [i][N] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][N]ติง</r> <r>[i][N]ชิง</r> <r>[i][N]ติ๋ง</r> <r>[i][N]หิงคุ์</r> <r>[i][N]กิง</r> <r>[i][N]กริ้ง</r> <r>[i][N]หริ่ง</r> <r>[i][N]ขิง</r> <r>[i][N]หญิง</r> <r>[i][N]ยิ่ง</r> <r>[i][N]วิ่ง</r> <r>[i][N]มิงค์</r> <r>[i][N]พิง</r> <r>[i][N]จริง</r> <r>[i][N]ฉิ่ง</r> <r>[i][N]ที่ง</r> <r>[i][N]ขิ้ง</r> <r>[i][N]จิ้ง</r> <r>[i][N]นิ่ง</r> <r>[i][N]วิง</r> <r>[i][N]หยิ่ง</r> <r>[i][N]ริง</r> <r>[i][N]มิ่ง</r> <r>[i][N]ซิง</r> <r>[i][N]อิง</r> <r>[i][N]สิงห์</r> <r>[i][N]ผิง</r> <r>[i][N]ปลิง</r> <r>[i][N]กลิ้ง</r> <r>[i][N]หิง</r> <r>[i][N]ยิง</r> <r>[i][N]สิ่ง</r> <r>[i][N]หนิ่ง</r> <r>[i][N]กิ่ง</r> <r>[i][N]ดิ้ง</r> <r>[i][N]อิ้ง</r> <r>[i][N]พริ้ง</r> <r>[i][N]หนี่ง</r> <r>[i][N]พี่ง</r> <r>[i][N]ลิ่ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [e][j] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][j]เช้ย</r> <r>[e][j]เม้ย</r> <r>[e][j]เล่ย</r> <r>[e][j]เบย</r> <r>[e][j]เซ้ย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [o][n] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][n]ร้น</r> <r>[o][n]ฝน</r> <r>[o][n]ตล</r> <r>[o][n]ศนย์</r> <r>[o][n]โยน</r> <r>[o][n]พ้น</r> <r>[o][n]ชล</r> <r>[o][n]โอน</r> <r>[o][n]มน</r> <r>[o][n]ธน</r> <r>[o][n]หม่น</r> <r>[o][n]ปน</r> <r>[o][n]หล</r> <r>[o][n]ยน</r> <r>[o][n]ยนต์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [U][m] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][m]ปลื้ม</r> <r>[U][m]งึ้ม</r> <r>[U][m]อืม</r> <r>[U][m]ครึ้ม</r> <r>[U][m]ขรึม</r> <r>[U][m]ครึ่ม</r> <r>[U][m]หึม</r> <r>[U][m]หงึม</r> <r>[U][m]ครึม</r> <r>[U][m]ดื่ม</r> <r>[U][m]ซึม</r> <r>[U][m]หึ่ม</r> <r>[U][m]งึม</r> <r>[U][m]ทึ้ม</r> <r>[U][m]ลืม</r> <r>[U][m]ยืม</r> <r>[U][m]ทึม</r> <r>[U][m]พึม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [a][N] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][N]ว่าง</r> <r>[a][N]หมาง</r> <r>[a][N]ภางค์</r> <r>[a][N]ฉาง</r> <r>[a][N]งัง</r> <r>[a][N]ค่าง</r> <r>[a][N]ดัง</r> <r>[a][N]ดั้ง</r> <r>[a][N]สร่าง</r> <r>[a][N]ปั๋ง</r> <r>[a][N]ปราง</r> <r>[a][N]วั่ง</r> <r>[a][N]ห้าง</r> <r>[a][N]บ่าง</r> <r>[a][N]หลั่ง</r> <r>[a][N]ข้าง</r> <r>[a][N]นัง</r> <r>[a][N]มั้ง</r> <r>[a][N]ดั่ง</r> <r>[a][N]งั่ง</r> <r>[a][N]ทัง</r> <r>[a][N]ฆัง</r> <r>[a][N]มั่ง</r> <r>[a][N]ทั้ง</r> <r>[a][N]ล้าง</r> <r>[a][N]ยางค์</r> <r>[a][N]มาง</r> <r>[a][N]ง้าง</r> <r>[a][N]พลั่ง</r> <r>[a][N]ยาง</r> <r>[a][N]ปลัง</r> <r>[a][N]ช่าง</r> <r>[a][N]มัง</r> <r>[a][N]ผลัง</r> <r>[a][N]รางค์</r> <r>[a][N]กว้าง</r> <r>[a][N]อาง</r> <r>[a][N]อ้าง</r> <r>[a][N]ถ่าง</r> <r>[a][N]จาง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [x][w] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x][w]แก้ว</r> <r>[x][w]แตว</r> <r>[x][w]แฉว</r> <r>[x][w]แขว</r> <r>[x][w]แจ้ว</r> <r>[x][w]แด่ว</r> <r>[x][w]แพร้ว</r> <r>[x][w]แซว</r> <r>[x][w]แพรว</r> <r>[x][w]แพว</r> <r>[x][w]แว่ว</r> <r>[x][w]แต้ว</r> <r>[x][w]แหยว</r> <r>[x][w]แล้ว</r> <r>[x][w]แกล้ว</r> <r>[x][w]แผ้ว</r> <r>[x][w]แน่ว</r> <r>[x][w]แม้ว</r> <r>[x][w]แถว</r> <r>[x][w]แหว</r> <r>[x][w]แหวว</r> <r>[x][w]แจ่ว</r> <r>[x][w]แพ้ว</r> <r>[x][w]แจว</r> <r>[x][w]แนว</r> <r>[x][w]แบว</r> <r>[x][w]แซ่ว</r> <r>[x][w]แวว</r> <r>[x][w]แมว</r> <r>[x][w]แป้ว</r> <r>[x][w]แคล้ว</r> <r>[x][w]แล่ว</r> <r>[x][w]แอ่ว</r> <r>[x][w]แร้ว</r> <r>[x][w]แจ๊ว</r> <r>[x][w]แคล่ว</r> <r>[x][w]แจ๋ว</r> <r>[x][w]แอว</r> <r>[x][w]แกว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [a][t] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][t]พลัด</r> <r>[a][t]กลัด</r> <r>[a][t]อาช</r> <r>[a][t]รัช</r> <r>[a][t]ราช</r> <r>[a][t]ชาด</r> <r>[a][t]หัด</r> <r>[a][t]รัถ</r> <r>[a][t]อัด</r> <r>[a][t]พลาส</r> <r>[a][t]ชัฏ</r> <r>[a][t]งัด</r> <r>[a][t]มาตย์</r> <r>[a][t]มาร์ท</r> <r>[a][t]คลาศ</r> <r>[a][t]ลาสต์</r> <r>[a][t]ญาต</r> <r>[a][t]ฮัด</r> <r>[a][t]จาด</r> <r>[a][t]อาด</r> <r>[a][t]ฉัตร</r> <r>[a][t]งาด</r> <r>[a][t]คัจ</r> <r>[a][t]ฟาด</r> <r>[a][t]ก๊าศ</r> <r>[a][t]รัส</r> <r>[a][t]กาด</r> <r>[a][t]อัฑ</r> <r>[a][t]วัฏ</r> <r>[a][t]หัท</r> <r>[a][t]ยาตร</r> <r>[a][t]บาต</r> <r>[a][t]ดัษ</r> <r>[a][t]ซัด</r> <r>[a][t]ปัตร</r> <r>[a][t]ภัสม์</r> <r>[a][t]นาฎ</r> <r>[a][t]ยัสถ์</r> <r>[a][t]หวัด</r> <r>[a][t]ศาจ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [a][j] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][j]งาย</r> <r>[a][j]ไหร่</r> <r>[a][j]ไก่</r> <r>[a][j]ได้</r> <r>[a][j]ฮ้าย</r> <r>[a][j]ภาย</r> <r>[a][j]ไต่</r> <r>[a][j]ใด</r> <r>[a][j]ค่าย</r> <r>[a][j]บ้าย</r> <r>[a][j]ใหม่</r> <r>[a][j]ง่าย</r> <r>[a][j]ไม่</r> <r>[a][j]ไพรม์</r> <r>[a][j]จัย</r> <r>[a][j]ไป๋</r> <r>[a][j]ไคล้</r> <r>[a][j]ควาย</r> <r>[a][j]ฉาย</r> <r>[a][j]ไมย</r> <r>[a][j]ไพล</r> <r>[a][j]ไวท์</r> <r>[a][j]ไทย</r> <r>[a][j]ไหม้</r> <r>[a][j]ไห้</r> <r>[a][j]ขวาย</r> <r>[a][j]ไนย</r> <r>[a][j]ข่าย</r> <r>[a][j]ไฝ</r> <r>[a][j]ใน</r> <r>[a][j]หน่าย</r> <r>[a][j]ป่าย</r> <r>[a][j]ไอ</r> <r>[a][j]ไส</r> <r>[a][j]คลาย</r> <r>[a][j]ไห</r> <r>[a][j]ไหล้</r> <r>[a][j]ด้าย</r> <r>[a][j]ไถ่</r> <r>[a][j]ไก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [o][n]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][n]ถร</r> <r>[o][n]ดน</r> <r>[o][n]สนธิ์</r> <r>[o][n]จล</r> <r>[o][n]จญ</r> <r>[o][n]โล้น</r> <r>[o][n]นล</r> <r>[o][n]ชน</r> <r>[o][n]ส้น</r> <r>[o][n]โขน</r> <r>[o][n]ล้น</r> <r>[o][n]ชนต์</r> <r>[o][n]ปรน</r> <r>[o][n]โคลน</r> <r>[o][n]คล</r> <r>[o][n]บร</r> <r>[o][n]โค่น</r> <r>[o][n]ซน</r> <r>[o][n]กรน</r> <r>[o][n]ข้น</r> <r>[o][n]โซล</r> <r>[o][n]นน</r> <r>[o][n]ชนม์</r> <r>[o][n]รนด์</r> <r>[o][n]พ่น</r> <r>[o][n]ก้น</r> <r>[o][n]โชน</r> <r>[o][n]โย้น</r> <r>[o][n]ขน</r> <r>[o][n]ซ่น</r> <r>[o][n]โน่น</r> <r>[o][n]ร่น</r> <r>[o][n]ต้น</r> <r>[o][n]ทล</r> <r>[o][n]วน</r> <r>[o][n]ฑล</r> <r>[o][n]ป่น</r> <r>[o][n]ท้น</r> <r>[o][n]โทน</r> <r>[o][n]โงน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [e] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e]เผ</r> <r>[e]เอ้</r> <r>[e]เว</r> <r>[e]เค</r> <r>[e]เพล้</r> <r>[e]เป</r> <r>[e]เสน่ห์</r> <r>[e]เอ๊ะ</r> <r>[e]เนย์</r> <r>[e]เปะ</r> <r>[e]เห</r> <r>[e]เบย์</r> <r>[e]เบ</r> <r>[e]เท่</r> <r>[e]เต</r> <r>[e]เหะ</r> <r>[e]เด</r> <r>[e]เม</r> <r>[e]เหม่</r> <r>[e]เช</r> <r>[e]เคร</r> <r>[e]เอ๋</r> <r>[e]เร่</r> <r>[e]เฮ</r> <r>[e]เหร่</r> <r>[e]เขว</r> <r>[e]เกะ</r> <r>[e]เดย์</r> <r>[e]เวย์</r> <r>[e]เพ</r> <r>[e]เตะ</r> <r>[e]เหย</r> <r>[e]เย้</r> <r>[e]เปล</r> <r>[e]เป้</r> <r>[e]เหว่</r> <r>[e]เท</r> <r>[e]เคล้</r> <r>[e]เร</r> <r>[e]เม่</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [e][t] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][t]เพชร</r> <r>[e][t]เพ็ชร</r> <r>[e][t]หเรศ</r> <r>[e][t]เบศ</r> <r>[e][t]เอช</r> <r>[e][t]เสธ</r> <r>[e][t]เหตุ</r> <r>[e][t]เข็ด</r> <r>[e][t]เฟ็ด</r> <r>[e][t]เมต</r> <r>[e][t]เมด</r> <r>[e][t]เชษฐ์</r> <r>[e][t]เสท</r> <r>[e][t]เร็จ</r> <r>[e][t]เนส</r> <r>[e][t]เตร็จ</r> <r>[e][t]เขบ็จ</r> <r>[e][t]เกศ</r> <r>[e][t]เผด็จ</r> <r>[e][t]เก็ด</r> <r>[e][t]เวท</r> <r>[e][t]เมศร์</r> <r>[e][t]เค็ด</r> <r>[e][t]เสส</r> <r>[e][t]เพช</r> <r>[e][t]เสลด</r> <r>[e][t]เมศวร์</r> <r>[e][t]เรศ</r> <r>[e][t]เซ็ต</r> <r>[e][t]เหน็ด</r> <r>[e][t]เกล็ด</r> <r>[e][t]เป็ด</r> <r>[e][t]เวต</r> <r>[e][t]เพชญ์</r> <r>[e][t]เศษ</r> <r>[e][t]เภท</r> <r>[e][t]เดท</r> <r>[e][t]เกร็ด</r> <r>[e][t]เตล็ด</r> <r>[e][t]เกร็ต</r> <r>[e][t]เอ็ด</r> <r>[e][t]เกด</r> <r>[e][t]เบธ</r> <r>[e][t]เมศ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [a]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a]ชะ</r> <r>[a]หล่า</r> <r>[a]น้า</r> <r>[a]ผละ</r> <r>[a]คาร์</r> <r>[a]ห่า</r> <r>[a]สาว์</r> <r>[a]ยา</r> <r>[a]คว้า</r> <r>[a]ลา</r> <r>[a]ฃ่า</r> <r>[a]ท่า</r> <r>[a]ธะ</r> <r>[a]หรา</r> <r>[a]กว่า</r> <r>[a]หยา</r> <r>[a]สะ</r> <r>[a]ฝา</r> <r>[a]ดะ</r> <r>[a]ฮา</r> <r>[a]ศา</r> <r>[a]ตะ</r> <r>[a]ผ้า</r> <r>[a]ร้า</r> <r>[a]พลา</r> <r>[a]ฬา</r> <r>[a]แพท</r> <r>[a]ง่า</r> <r>[a]ฎา</r> <r>[a]ตรา</r> <r>[a]ก้า</r> <r>[a]ฆะ</r> <r>[a]จ้ะ</r> <r>[a]ภา</r> <r>[a]ประ</r> <r>[a]คร่า</r> <r>[a]วะ</r> <r>[a]ขวา</r> <r>[a]อย่า</r> <r>[a]ว้า</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [ua][p] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][p]ควบ</r> <r>[ua][p]อวบ</r> <r>[ua][p]กรวบ</r> <r>[ua][p]ขวบ</r> <r>[ua][p]จวบ</r> <r>[ua][p]ยวบ</r> <r>[ua][p]สวบ</r> <r>[ua][p]บวบ</r> <r>[ua][p]รวบ</r> <r>[ua][p]พวภ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [e][w]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][w]เด้ว</r> <r>[e][w]เหว</r> <r>[e][w]เฉลว</r> <r>[e][w]เล่ว</r> <r>[e][w]เหลว</r> <r>[e][w]เร็ว</r> <r>[e][w]เปลว</r> <r>[e][w]เลว</r> <r>[e][w]เอว</r> <r>[e][w]เขว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [a][m] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][m]ซำ</r> <r>[a][m]ทำ</r> <r>[a][m]ฉำ</r> <r>[a][m]จ้ำ</r> <r>[a][m]กัม</r> <r>[a][m]ตาม</r> <r>[a][m]ล่ำ</r> <r>[a][m]ดำ</r> <r>[a][m]กรรม</r> <r>[a][m]ก่ำ</r> <r>[a][m]นัม</r> <r>[a][m]ง้ำ</r> <r>[a][m]หลำ</r> <r>[a][m]พล่าม</r> <r>[a][m]บั้ม</r> <r>[a][m]กล่ำ</r> <r>[a][m]ตำ</r> <r>[a][m]ด้าม</r> <r>[a][m]ก้ำ</r> <r>[a][m]ข้าม</r> <r>[a][m]กรำ</r> <r>[a][m]ย่ำ</r> <r>[a][m]อาม</r> <r>[a][m]พำ</r> <r>[a][m]คาม</r> <r>[a][m]คร่าม</r> <r>[a][m]พล้ำ</r> <r>[a][m]ครำ</r> <r>[a][m]คร่ำ</r> <r>[a][m]ซ่าม</r> <r>[a][m]ร่ำ</r> <r>[a][m]วำ</r> <r>[a][m]กาม</r> <r>[a][m]ปาม</r> <r>[a][m]หล่ำ</r> <r>[a][m]สาม</r> <r>[a][m]ยำ</r> <r>[a][m]ณาม</r> <r>[a][m]งาม</r> <r>[a][m]ม้ำ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [e][N]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][N]เคว้ง</r> <r>[e][N]เล็ง</r> <r>[e][N]เหน่ง</r> <r>[e][N]เบง</r> <r>[e][N]เขลง</r> <r>[e][N]เร็ง</r> <r>[e][N]เต็ง</r> <r>[e][N]เบ้ง</r> <r>[e][N]เลง</r> <r>[e][N]เผง</r> <r>[e][N]เทง</r> <r>[e][N]เม่ง</r> <r>[e][N]เกรง</r> <r>[e][N]เจ๊ง</r> <r>[e][N]เฉง</r> <r>[e][N]เขนง</r> <r>[e][N]เหม็ง</r> <r>[e][N]เก้ง</r> <r>[e][N]เงง</r> <r>[e][N]เสง</r> <r>[e][N]เยง</r> <r>[e][N]เร่ง</r> <r>[e][N]เพ่ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [i][t]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][t]ลิส</r> <r>[i][t]คิด</r> <r>[i][t]ขีด</r> <r>[i][t]ฟีด</r> <r>[i][t]ลิต</r> <r>[i][t]ชิต</r> <r>[i][t]กีด</r> <r>[i][t]ขิด</r> <r>[i][t]สิทธ์</r> <r>[i][t]ดิต</r> <r>[i][t]มิจ</r> <r>[i][t]อิท</r> <r>[i][t]ทิศ</r> <r>[i][t]หิต</r> <r>[i][t]จี๊ด</r> <r>[i][t]ดิตถ์</r> <r>[i][t]ฉีด</r> <r>[i][t]หรีด</r> <r>[i][t]สิท</r> <r>[i][t]ณิช</r> <r>[i][t]ษิต</r> <r>[i][t]กรีด</r> <r>[i][t]คริสต์</r> <r>[i][t]พิท</r> <r>[i][t]จิตต์</r> <r>[i][t]ปิด</r> <r>[i][t]กฤต</r> <r>[i][t]กริด</r> <r>[i][t]นิด</r> <r>[i][t]รีด</r> <r>[i][t]จิตร</r> <r>[i][t]หงิด</r> <r>[i][t]อิทธิ์</r> <r>[i][t]มิต</r> <r>[i][t]นิษ</r> <r>[i][t]นิศร์</r> <r>[i][t]ซีด</r> <r>[i][t]หวิด</r> <r>[i][t]ดิษ</r> <r>[i][t]มิส</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [a][w] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][w]จาว</r> <r>[a][w]เหนา</r> <r>[a][w]เต้า</r> <r>[a][w]เผ่า</r> <r>[a][w]ง้าว</r> <r>[a][w]เพา</r> <r>[a][w]เถ้า</r> <r>[a][w]เถา</r> <r>[a][w]เบ่า</r> <r>[a][w]เต่า</r> <r>[a][w]เคา</r> <r>[a][w]อ่าว</r> <r>[a][w]เหล้า</r> <r>[a][w]เสาร์</r> <r>[a][w]อาว</r> <r>[a][w]นาว</r> <r>[a][w]เขม่า</r> <r>[a][w]เภา</r> <r>[a][w]ผ่าว</r> <r>[a][w]เนาว์</r> <r>[a][w]เหลา</r> <r>[a][w]ก้าว</r> <r>[a][w]เผา</r> <r>[a][w]เผ้า</r> <r>[a][w]เฉา</r> <r>[a][w]ข่าว</r> <r>[a][w]เคาน์</r> <r>[a][w]เช้า</r> <r>[a][w]เก่า</r> <r>[a][w]พราว</r> <r>[a][w]เบา</r> <r>[a][w]เยาว์</r> <r>[a][w]เหย้า</r> <r>[a][w]หนาว</r> <r>[a][w]จ้าว</r> <r>[a][w]เหง้า</r> <r>[a][w]ขัว</r> <r>[a][w]หาว</r> <r>[a][w]ซ่าว</r> <r>[a][w]ฉาว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [e][t] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][t]เท็จ</r> <r>[e][t]เศส</r> <r>[e][t]เฉด</r> <r>[e][t]เสร็จ</r> <r>[e][t]เนต</r> <r>[e][t]เก็จ</r> <r>[e][t]เพ็ชร์</r> <r>[e][t]เห็ด</r> <r>[e][t]เห็จ</r> <r>[e][t]เฮช</r> <r>[e][t]เจ็ด</r> <r>[e][t]เมธ</r> <r>[e][t]เพจ</r> <r>[e][t]เกตุ</r> <r>[e][t]เกจ</r> <r>[e][t]เนตร</r> <r>[e][t]เด็จ</r> <r>[e][t]เศรษ</r> <r>[e][t]เวศน์</r> <r>[e][t]เชษ</r> <r>[e][t]เอ็ต</r> <r>[e][t]เด็ด</r> <r>[e][t]เล็ต</r> <r>[e][t]เชษฐ</r> <r>[e][t]เชส</r> <r>[e][t]เคส</r> <r>[e][t]เดช</r> <r>[e][t]เษต</r> <r>[e][t]เมตร</r> <r>[e][t]เอ็ท</r> <r>[e][t]เพ็ธ</r> <r>[e][t]เปรต</r> <r>[e][t]เพท</r> <r>[e][t]เกรด</r> <r>[e][t]เบ็ด</r> <r>[e][t]เล็ด</r> <r>[e][t]เวศ</r> <r>[e][t]เม็ด</r> <r>[e][t]เอศ</r> <r>[e][t]เมษ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [Ua][p] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][p]เหลือบ</r> <r>[Ua][p]เคลือบ</r> <r>[Ua][p]เกือบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [O][j] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[O][j]ย้อย</r> <r>[O][j]ฟ่อย</r> <r>[O][j]งอย</r> <r>[O][j]ค่อย</r> <r>[O][j]พลอย</r> <r>[O][j]พล่อย</r> <r>[O][j]ถ่อย</r> <r>[O][j]ร้อย</r> <r>[O][j]ปรอย</r> <r>[O][j]ม่อย</r> <r>[O][j]น้อย</r> <r>[O][j]หงอย</r> <r>[O][j]บอย</r> <r>[O][j]ลอยด์</r> <r>[O][j]ลอย</r> <r>[O][j]จ๋อย</r> <r>[O][j]บ่อย</r> <r>[O][j]ก๋อย</r> <r>[O][j]ว่อย</r> <r>[O][j]สอย</r> <r>[O][j]สร้อย</r> <r>[O][j]ด้อย</r> <r>[O][j]นอย</r> <r>[O][j]ฝอย</r> <r>[O][j]ทอย</r> <r>[O][j]พรอย</r> <r>[O][j]ร่อย</r> <r>[O][j]หน่อย</r> <r>[O][j]จ่อย</r> <r>[O][j]ถ้อย</r> <r>[O][j]ต้อย</r> <r>[O][j]คอย</r> <r>[O][j]รอย</r> <r>[O][j]ดอย</r> <r>[O][j]กร๋อย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [U] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U]ฮื้อ</r> <r>[U]ฤๅ</r> <r>[U]ปรือ</r> <r>[U]ทื่อ</r> <r>[U]ดือ</r> <r>[U]อือ</r> <r>[U]ปื๋อ</r> <r>[U]ทือ</r> <r>[U]มื้อ</r> <r>[U]ฤ</r> <r>[U]ฮือ</r> <r>[U]ลือ</r> <r>[U]อื้อ</r> <r>[U]ขื่อ</r> <r>[U]พรื้อ</r> <r>[U]ถือ</r> <r>[U]ชื้อ</r> <r>[U]ตึ</r> <r>[U]กือ</r> <r>[U]ครือ</r> <r>[U]ตื้อ</r> <r>[U]หวือ</r> <r>[U]ลื้อ</r> <r>[U]รือ</r> <r>[U]ดื้อ</r> <r>[U]ตื๋อ</r> <r>[U]ดึ</r> <r>[U]ซื่อ</r> <r>[U]สื่อ</r> <r>[U]ปื้อ</r> <r>[U]ยื้อ</r> <r>[U]ตือ</r> <r>[U]ชื่อ</r> <r>[U]ปรื๋อ</r> <r>[U]สือ</r> <r>[U]หือ</r> <r>[U]มือ</r> <r>[U]ครึ</r> <r>[U]ซือ</r> <r>[U]คือ</r> <r>[U]ฦๅ</r> <r>[U]รื้อ</r> <r>[U]บือ</r> <r>[U]หรือ</r> <r>[U]ซื้่อ</r> <r>[U]มึ</r> <r>[U]ซื้อ</r> <r>[U]พือ</r> <r>[U]หมือ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [ia][N] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][N]เหวี่ยง</r> <r>[ia][N]เชียง</r> <r>[ia][N]เกลียง</r> <r>[ia][N]เบี่ยง</r> <r>[ia][N]เกรียง</r> <r>[ia][N]เคียง</r> <r>[ia][N]เปรียง</r> <r>[ia][N]เอี๋ยง</r> <r>[ia][N]เพรียง</r> <r>[ia][N]เฉียง</r> <r>[ia][N]เวี่ยง</r> <r>[ia][N]เปรี้ยง</r> <r>[ia][N]เฉลียง</r> <r>[ia][N]เจียง</r> <r>[ia][N]เพียง</r> <r>[ia][N]เที่ยง</r> <r>[ia][N]เกลี้ยง</r> <r>[ia][N]เกียง</r> <r>[ia][N]เสียง</r> <r>[ia][N]เขวี้ยง</r> <r>[ia][N]เบียง</r> <r>[ia][N]เขียง</r> <r>[ia][N]เอี้ยง</r> <r>[ia][N]เสบียง</r> <r>[ia][N]เซียง</r> <r>[ia][N]เตียง</r> <r>[ia][N]เลี่ยง</r> <r>[ia][N]เลียง</r> <r>[ia][N]เถียง</r> <r>[ia][N]เหียง</r> <r>[ia][N]เยี่ยง</r> <r>[ia][N]เมี่ยง</r> <r>[ia][N]เสี่ยง</r> <r>[ia][N]เงี่ยง</r> <r>[ia][N]เวียง</r> <r>[ia][N]เดียง</r> <r>[ia][N]เกี่ยง</r> <r>[ia][N]เอียง</r> <r>[ia][N]เหรี่ยง</r> <r>[ia][N]เรียง</r> <r>[ia][N]เกรี่ยง</r> <r>[ia][N]เพี้ยง</r> <r>[ia][N]เฉวียง</r> <r>[ia][N]เลี้ยง</r> <r>[ia][N]เสลี่ยง</r> <r>[ia][N]เนียง</r> <r>[ia][N]เมียง</r> <r>[ia][N]เพลี่ยง</r> <r>[ia][N]เหนียง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [@][n] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][n]เอิญ</r> <r>[@][n]เถิน</r> <r>[@][n]เปิ้ล</r> <r>[@][n]เจิ่น</r> <r>[@][n]เขิน</r> <r>[@][n]เนิ่น</r> <r>[@][n]เดิน</r> <r>[@][n]เกริน</r> <r>[@][n]เกิน</r> <r>[@][n]เสริญ</r> <r>[@][n]เพลิน</r> <r>[@][n]เชิน</r> <r>[@][n]เหิน</r> <r>[@][n]เชิญ</r> <r>[@][n]เผิน</r> <r>[@][n]เงิ่น</r> <r>[@][n]เทิน</r> <r>[@][n]เขิญ</r> <r>[@][n]เกริ่น</r> <r>[@][n]เริญ</r> <r>[@][n]เอิ้น</r> <r>[@][n]เงิน</r> <r>[@][n]เนิน</r> <r>[@][n]เผอิญ</r> <r>[@][n]เยิ่น</r> <r>[@][n]เฟิล</r> <r>[@][n]เบิ้ล</r> <r>[@][n]เจริญ</r> <r>[@][n]เฉิน</r> <r>[@][n]เกิ้ล</r> <r>[@][n]เอิน</r> <r>[@][n]เดิล</r> <r>[@][n]เมิน</r> <r>[@][n]เทิ้น</r> <r>[@][n]เบิล</r> <r>[@][n]เพิ่น</r> <r>[@][n]เทิร์น</r> <r>[@][n]เจิ้น</r> <r>[@][n]เยิน</r> <r>[@][n]เลิน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [a][n] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][n]ศัล</r> <r>[a][n]จันท์</r> <r>[a][n]กัณ</r> <r>[a][n]กานต์</r> <r>[a][n]จรรย์</r> <r>[a][n]กว้าน</r> <r>[a][n]สั่น</r> <r>[a][n]สรรพ์</r> <r>[a][n]ฟั่น</r> <r>[a][n]คัล</r> <r>[a][n]สาร</r> <r>[a][n]คั้น</r> <r>[a][n]ยันต์</r> <r>[a][n]ฝ่าน</r> <r>[a][n]พรั่น</r> <r>[a][n]ขัณฑ์</r> <r>[a][n]นาน</r> <r>[a][n]ดารณ์</r> <r>[a][n]จัณฑ์</r> <r>[a][n]กาญจน์</r> <r>[a][n]กัณฑ์</r> <r>[a][n]ศัลย์</r> <r>[a][n]กลั้น</r> <r>[a][n]คลาน</r> <r>[a][n]ขวั้น</r> <r>[a][n]สาณฑ์</r> <r>[a][n]หยัน</r> <r>[a][n]ข่าน</r> <r>[a][n]ด่าน</r> <r>[a][n]มาลย์</r> <r>[a][n]ครรภ์</r> <r>[a][n]พาร</r> <r>[a][n]หนัน</r> <r>[a][n]จาร</r> <r>[a][n]กาฬ</r> <r>[a][n]การ</r> <r>[a][n]พรร</r> <r>[a][n]ภรร</r> <r>[a][n]วรรณ</r> <r>[a][n]ซั้น</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [a][t] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][t]วาด</r> <r>[a][t]พัทธ์</r> <r>[a][t]ปราชญ์</r> <r>[a][t]อาตม์</r> <r>[a][t]พาส</r> <r>[a][t]พลาด</r> <r>[a][t]มารถ</r> <r>[a][t]พาศ</r> <r>[a][t]ผัส</r> <r>[a][t]สัตย์</r> <r>[a][t]หวาด</r> <r>[a][t]นาด</r> <r>[a][t]ญัติ</r> <r>[a][t]อัจ</r> <r>[a][t]บัติ</r> <r>[a][t]หมาด</r> <r>[a][t]ปลาต</r> <r>[a][t]วาสน์</r> <r>[a][t]การ์ด</r> <r>[a][t]ทัศ</r> <r>[a][t]หัต</r> <r>[a][t]กวาด</r> <r>[a][t]คาส</r> <r>[a][t]หัถ</r> <r>[a][t]ปราศ</r> <r>[a][t]บาด</r> <r>[a][t]ดาด</r> <r>[a][t]หลัด</r> <r>[a][t]สัช</r> <r>[a][t]ภาชน์</r> <r>[a][t]ครัด</r> <r>[a][t]มัส</r> <r>[a][t]ยาท</r> <r>[a][t]ยัติ</r> <r>[a][t]กัศ</r> <r>[a][t]ฉาด</r> <r>[a][t]มาด</r> <r>[a][t]พาทย์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [i] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i]หนี้</r> <r>[i]บิ</r> <r>[i]รี่</r> <r>[i]ผี่</r> <r>[i]ฑิ</r> <r>[i]ฐิ</r> <r>[i]คี่</r> <r>[i]ณีย์</r> <r>[i]ฟรี</r> <r>[i]ลีย์</r> <r>[i]ปรี้</r> <r>[i]ปี้</r> <r>[i]ญี</r> <r>[i]ตี</r> <r>[i]ปริ</r> <r>[i]ธิ</r> <r>[i]หนี</r> <r>[i]ขิ</r> <r>[i]ครี</r> <r>[i]ณี</r> <r>[i]รี้</r> <r>[i]หรี</r> <r>[i]ษิ</r> <r>[i]ดีย์</r> <r>[i]หิ</r> <r>[i]จี๋</r> <r>[i]ริ</r> <r>[i]หมี</r> <r>[i]จี่</r> <r>[i]คลี</r> <r>[i]หยี</r> <r>[i]กีย์</r> <r>[i]ติ</r> <r>[i]ภิ</r> <r>[i]มีย์</r> <r>[i]ผี</r> <r>[i]หมี่</r> <r>[i]สีห์</r> <r>[i]พลี</r> <r>[i]ยิ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [ua][j] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][j]ห้วย</r> <r>[ua][j]ม่วย</r> <r>[ua][j]ป่วย</r> <r>[ua][j]นวย</r> <r>[ua][j]ขวย</r> <r>[ua][j]ซวย</r> <r>[ua][j]ตรวย</r> <r>[ua][j]ถ้วย</r> <r>[ua][j]ผวย</r> <r>[ua][j]มวย</r> <r>[ua][j]กวย</r> <r>[ua][j]กรวย</r> <r>[ua][j]ฉวย</r> <r>[ua][j]ปวย</r> <r>[ua][j]สวย</r> <r>[ua][j]ก้วย</r> <r>[ua][j]ลวย</r> <r>[ua][j]อวย</r> <r>[ua][j]ด้วย</r> <r>[ua][j]กล้วย</r> <r>[ua][j]สรวย</r> <r>[ua][j]ม้วย</r> <r>[ua][j]ก๊วย</r> <r>[ua][j]พวย</r> <r>[ua][j]ห่วย</r> <r>[ua][j]บวย</r> <r>[ua][j]ชวย</r> <r>[ua][j]งวย</r> <r>[ua][j]ส่วย</r> <r>[ua][j]รวย</r> <r>[ua][j]หน่วย</r> <r>[ua][j]หวย</r> <r>[ua][j]ช่วย</r> <r>[ua][j]ทวย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [ia][t] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][t]เกียรติ์</r> <r>[ia][t]เดียจ</r> <r>[ia][t]เวียด</r> <r>[ia][t]เบียด</r> <r>[ia][t]เรียด</r> <r>[ia][t]เยียด</r> <r>[ia][t]เฉียด</r> <r>[ia][t]เคียด</r> <r>[ia][t]เกียจ</r> <r>[ia][t]เดียด</r> <r>[ia][t]เลียด</r> <r>[ia][t]เจียด</r> <r>[ia][t]เกลียด</r> <r>[ia][t]เกียด</r> <r>[ia][t]เกรียด</r> <r>[ia][t]เสียด</r> <r>[ia][t]เกียรติ</r> <r>[ia][t]เมียด</r> <r>[ia][t]เอียด</r> <r>[ia][t]เขียด</r> <r>[ia][t]เครียด</r> <r>[ia][t]เนียด</r> <r>[ia][t]เหยียด</r> <r>[ia][t]เพนียด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [Ua][n] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][n]เงื่อน</r> <r>[Ua][n]เฟื่อน</r> <r>[Ua][n]เฝื่อน</r> <r>[Ua][n]เกลื้อน</r> <r>[Ua][n]เคลื่อน</r> <r>[Ua][n]เถื่อน</r> <r>[Ua][n]เปื้อน</r> <r>[Ua][n]เลื่อน</r> <r>[Ua][n]เดือน</r> <r>[Ua][n]เลือน</r> <r>[Ua][n]เจื่อน</r> <r>[Ua][n]เรื้อน</r> <r>[Ua][n]เผื่อน</r> <r>[Ua][n]เทือน</r> <r>[Ua][n]เกลื่อน</r> <r>[Ua][n]เยื้อน</r> <r>[Ua][n]เรือน</r> <r>[Ua][n]เชือน</r> <r>[Ua][n]เขื่อน</r> <r>[Ua][n]เพื่อน</r> <r>[Ua][n]เฉือน</r> <r>[Ua][n]เขยื้อน</r> <r>[Ua][n]เหมือน</r> <r>[Ua][n]เตือน</r> <r>[Ua][n]เบือน</r> <r>[Ua][n]เฮือน</r> <r>[Ua][n]เทื้อน</r> <r>[Ua][n]เฟือน</r> <r>[Ua][n]เสมือน</r> <r>[Ua][n]เอื้อน</r> <r>[Ua][n]เยือน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [e]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e]เละ</r> <r>[e]เกอร์</r> <r>[e]เก๋</r> <r>[e]เรย์</r> <r>[e]เจตน์</r> <r>[e]เทห์</r> <r>[e]เตร</r> <r>[e]เอะ</r> <r>[e]เก้</r> <r>[e]เก</r> <r>[e]เส</r> <r>[e]เห่</r> <r>[e]เตร่</r> <r>[e]เน</r> <r>[e]เจ๊</r> <r>[e]เล</r> <r>[e]เง้</r> <r>[e]เพล</r> <r>[e]เชษฐ์</r> <r>[e]เล่ห์</r> <r>[e]เป๋</r> <r>[e]เถ</r> <r>[e]เว้</r> <r>[e]เซ</r> <r>[e]เบ้</r> <r>[e]เข</r> <r>[e]เป๊ะ</r> <r>[e]เข้</r> <r>[e]เย</r> <r>[e]เอ</r> <r>[e]เจ</r> <r>[e]เว่</r> <r>[e]เกณฑ์</r> <r>[e]เภ</r> <r>[e]เผล</r> <r>[e]เฉ</r> <r>[e]เท่ห์</r> <r>[e]เย่</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [ua][n] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][n]ปรวน</r> <r>[ua][n]นวน</r> <r>[ua][n]อวล</r> <r>[ua][n]พวน</r> <r>[ua][n]ผวน</r> <r>[ua][n]หวน</r> <r>[ua][n]ต่วน</r> <r>[ua][n]พรวน</r> <r>[ua][n]ข่วน</r> <r>[ua][n]ยวน</r> <r>[ua][n]ต้วน</r> <r>[ua][n]ดวน</r> <r>[ua][n]ขวน</r> <r>[ua][n]สรวล</r> <r>[ua][n]ถ้วน</r> <r>[ua][n]ชวน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me rhyming Thai words for the [U][p] pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][p]พึบ</r> <r>[U][p]ทืบ</r> <r>[U][p]ทึบ</r> <r>[U][p]พรึบ</r> <r>[U][p]ฮึบ</r> <r>[U][p]คืบ</r> <r>[U][p]สืบ</r> <r>[U][p]หลืบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [u] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[u]ครู่</r> <r>[u]บู</r> <r>[u]กุฏิ์</r> <r>[u]จุ</r> <r>[u]อุ๋</r> <r>[u]ยู</r> <r>[u]กูณฑ์</r> <r>[u]มุ</r> <r>[u]สู้</r> <r>[u]ปูล์</r> <r>[u]พู่</r> <r>[u]คู</r> <r>[u]ฮู</r> <r>[u]พลุ</r> <r>[u]ญู</r> <r>[u]บู่</r> <r>[u]ญุ</r> <r>[u]ตรู</r> <r>[u]ณุ</r> <r>[u]หนู</r> <r>[u]พรู</r> <r>[u]ขรุ</r> <r>[u]ขู่</r> <r>[u]อู</r> <r>[u]หรู</r> <r>[u]กู่</r> <r>[u]ปรู</r> <r>[u]บลู</r> <r>[u]ตู่</r> <r>[u]กู๋</r> <r>[u]ผุ้</r> <r>[u]ผุ</r> <r>[u]บุ</r> <r>[u]สุ</r> <r>[u]หรู่</r> <r>[u]ทู่</r> <r>[u]หวู่</r> <r>[u]ชู้</r> <r>[u]ลู</r> <r>[u]นุ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [a][t] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][t]ปาต</r> <r>[a][t]ผลัด</r> <r>[a][t]ตัด</r> <r>[a][t]พัตถ์ก</r> <r>[a][t]ทัต</r> <r>[a][t]มาส</r> <r>[a][t]สัจ</r> <r>[a][t]ฟัด</r> <r>[a][t]พัสต์</r> <r>[a][t]นัตถุ์</r> <r>[a][t]สัตว์</r> <r>[a][t]ลาด</r> <r>[a][t]ษัตริย์</r> <r>[a][t]สาสน์</r> <r>[a][t]ราชย์</r> <r>[a][t]ยัด</r> <r>[a][t]หมัด</r> <r>[a][t]ราด</r> <r>[a][t]ปาด</r> <r>[a][t]พรรดิ</r> <r>[a][t]พราด</r> <r>[a][t]หนัด</r> <r>[a][t]รัด</r> <r>[a][t]มาศ</r> <r>[a][t]ถาด</r> <r>[a][t]ปัศ</r> <r>[a][t]วัด</r> <r>[a][t]รัติ</r> <r>[a][t]บาศ</r> <r>[a][t]พัสตร์</r> <r>[a][t]พัด</r> <r>[a][t]บรัด</r> <r>[a][t]ปัส</r> <r>[a][t]ชาร์ต</r> <r>[a][t]มัท</r> <r>[a][t]ดาต</r> <r>[a][t]ลาส</r> <r>[a][t]ปราถ</r> <r>[a][t]กัส</r> <r>[a][t]ฮาร์ด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [a][k] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][k]ดาก</r> <r>[a][k]ควาก</r> <r>[a][k]ภัก</r> <r>[a][k]งัก</r> <r>[a][k]วัก</r> <r>[a][k]ชาก</r> <r>[a][k]ขาก</r> <r>[a][k]ควัก</r> <r>[a][k]ลัก</r> <r>[a][k]ขัก</r> <r>[a][k]ฟาก</r> <r>[a][k]จาก</r> <r>[a][k]ขวาก</r> <r>[a][k]มรรค</r> <r>[a][k]ภักตร์</r> <r>[a][k]ราก</r> <r>[a][k]ตัก</r> <r>[a][k]หลาก</r> <r>[a][k]นัก</r> <r>[a][k]พรรค</r> <r>[a][k]พลัก</r> <r>[a][k]ลักษณ์</r> <r>[a][k]คราก</r> <r>[a][k]กลัก</r> <r>[a][k]พรรค์</r> <r>[a][k]ยัก</r> <r>[a][k]กราก</r> <r>[a][k]ลาก</r> <r>[a][k]รัก</r> <r>[a][k]ทัก</r> <r>[a][k]ภาคย์</r> <r>[a][k]ซาก</r> <r>[a][k]อยาก</r> <r>[a][k]กรัก</r> <r>[a][k]วรรค</r> <r>[a][k]ภัค</r> <r>[a][k]ปลั๊ก</r> <r>[a][k]ยักษ์พ</r> <r>[a][k]ราค</r> <r>[a][k]ฟัก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me rhyming Thai words for the [ia][k] pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][k]เพรียก</r> <r>[ia][k]เรียก</r> <r>[ia][k]เกรียก</r> <r>[ia][k]เกียก</r> <r>[ia][k]เยียก</r> <r>[ia][k]เปียก</r> <r>[ia][k]เหนียก</r> <r>[ia][k]เจียก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [ua][N] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][N]ห่วง</r> <r>[ua][N]ลวง</r> <r>[ua][N]ม่วง</r> <r>[ua][N]ขวง</r> <r>[ua][N]ทวง</r> <r>[ua][N]หวง</r> <r>[ua][N]พวง</r> <r>[ua][N]สรวง</r> <r>[ua][N]ควง</r> <r>[ua][N]พ่วง</r> <r>[ua][N]รวง</r> <r>[ua][N]ร่วง</r> <r>[ua][N]พลวง</r> <r>[ua][N]ล่วง</r> <r>[ua][N]งวง</r> <r>[ua][N]สวง</r> <r>[ua][N]บ่วง</r> <r>[ua][N]ง่วง</r> <r>[ua][N]หน่วง</r> <r>[ua][N]ก๊วง</r> <r>[ua][N]จ้วง</r> <r>[ua][N]ช่วง</r> <r>[ua][N]ถ่วง</r> <r>[ua][N]บวง</r> <r>[ua][N]ท้วง</r> <r>[ua][N]ด้วง</r> <r>[ua][N]หลวง</r> <r>[ua][N]ทรวง</r> <r>[ua][N]ตวง</r> <r>[ua][N]ดวง</r> <r>[ua][N]ห้วง</r> <r>[ua][N]ปวง</r> <r>[ua][N]ล้วง</r> <r>[ua][N]จวง</r> <r>[ua][N]ยวง</r> <r>[ua][N]กลวง</r> <r>[ua][N]ท่วง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [e][k]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][k]เซ็กส์</r> <r>[e][k]เลก</r> <r>[e][k]เหล็ก</r> <r>[e][k]เงก</r> <r>[e][k]เอ็กซ์</r> <r>[e][k]เหยก</r> <r>[e][k]เช็ค</r> <r>[e][k]เภ็ก</r> <r>[e][k]เทค</r> <r>[e][k]เลข</r> <r>[e][k]เมฆ</r> <r>[e][k]เปก</r> <r>[e][k]เอ็ก</r> <r>[e][k]เษก</r> <r>[e][k]เฉก</r> <r>[e][k]เบค</r> <r>[e][k]เจ๊ก</r> <r>[e][k]เด็ก</r> <r>[e][k]เซ็กซ์</r> <r>[e][k]เรก</r> <r>[e][k]เขนก</r> <r>[e][k]เสก</r> <r>[e][k]เกก</r> <r>[e][k]เม้ก</r> <r>[e][k]เล็ก</r> <r>[e][k]เผลก</r> <r>[e][k]เวก</r> <r>[e][k]เนก</r> <r>[e][k]เค้ก</r> <r>[e][k]เอ๊ก</r> <r>[e][k]เหรก</r> <r>[e][k]เต๊ก</r> <r>[e][k]เอก</r> <r>[e][k]เบก</r> <r>[e][k]เขก</r> <r>[e][k]เจ็ก</r> <r>[e][k]เซ็ก</r> <r>[e][k]เลค</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [O] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[O]ก๋อ</r> <r>[O]หง่อ</r> <r>[O]คล้อ</r> <r>[O]เจาะ</r> <r>[O]กร้อ</r> <r>[O]เสาะ</r> <r>[O]ก้อ</r> <r>[O]เคราะ</r> <r>[O]ซอ</r> <r>[O]เกาะ</r> <r>[O]หน่อ</r> <r>[O]วอ</r> <r>[O]เหลาะ</r> <r>[O]ฝ่อ</r> <r>[O]เพาะ</r> <r>[O]หม้อ</r> <r>[O]เหาะ</r> <r>[O]ม่อ</r> <r>[O]ย้อ</r> <r>[O]บอ</r> <r>[O]ลอร์</r> <r>[O]ร่อ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Please provide Thai vocabulary using the [a] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a]ปลา</r> <r>[a]ทะ</r> <r>[a]บ่า</r> <r>[a]ข้า</r> <r>[a]ย้า</r> <r>[a]ณ</r> <r>[a]พล่า</r> <r>[a]ห้า</r> <r>[a]วาท์</r> <r>[a]ด่า</r> <r>[a]กร้า</r> <r>[a]หลา</r> <r>[a]ละ</r> <r>[a]หล้า</r> <r>[a]ครา</r> <r>[a]ระ</r> <r>[a]ม้า</r> <r>[a]จ้า</r> <r>[a]ถ้า</r> <r>[a]ถะ</r> <r>[a]หน่า</r> <r>[a]คาน</r> <r>[a]กา</r> <r>[a]ทา</r> <r>[a]งา</r> <r>[a]ผา</r> <r>[a]ซ่า</r> <r>[a]พรา</r> <r>[a]บะ</r> <r>[a]ล่าร์</r> <r>[a]สา</r> <r>[a]ส่า</r> <r>[a]จ๊ะ</r> <r>[a]ฟา</r> <r>[a]หงา</r> <r>[a]ปา</r> <r>[a]ค่ะ</r> <r>[a]ส้า</r> <r>[a]น่า</r> <r>[a]ราค์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [i][p]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][p]คีบ</r> <r>[i][p]กีบ</r> <r>[i][p]ฮิป</r> <r>[i][p]หมิบ</r> <r>[i][p]ปีบ</r> <r>[i][p]บีบ</r> <r>[i][p]พริบ</r> <r>[i][p]นิพ</r> <r>[i][p]ชีพ</r> <r>[i][p]ริบ</r> <r>[i][p]ฉิบ</r> <r>[i][p]หยิบ</r> <r>[i][p]ขลิบ</r> <r>[i][p]ทิพย์</r> <r>[i][p]ปริบ</r> <r>[i][p]คลิป</r> <r>[i][p]จีบ</r> <r>[i][p]งีบ</r> <r>[i][p]สิบ</r> <r>[i][p]พิพม์</r> <r>[i][p]หนีบ</r> <r>[i][p]อิบ</r> <r>[i][p]ทีป</r> <r>[i][p]ครีพ</r> <r>[i][p]ดิบ</r> <r>[i][p]รีบ</r> <r>[i][p]ลิบ</r> <r>[i][p]หีบ</r> <r>[i][p]ทิพ</r> <r>[i][p]ซิบ</r> <r>[i][p]ทริป</r> <r>[i][p]งิบ</r> <r>[i][p]ยิบ</r> <r>[i][p]ครีบ</r> <r>[i][p]กลีบ</r> <r>[i][p]จิบ</r> <r>[i][p]หวิบ</r> <r>[i][p]ปิบ</r> <r>[i][p]กริบ</r> <r>[i][p]ซิป</r> <r>[i][p]ถีบ</r> <r>[i][p]หลีบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [a][w] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][w]เยา</r> <r>[a][w]เด่า</r> <r>[a][w]ขวาว</r> <r>[a][w]เก้า</r> <r>[a][w]เกา</r> <r>[a][w]เลา</r> <r>[a][w]ช้าว</r> <r>[a][w]ซาว</r> <r>[a][w]งาว</r> <r>[a][w]ลาว</r> <r>[a][w]เช่า</r> <r>[a][w]เสมา</r> <r>[a][w]เปร่า</r> <r>[a][w]กราวด์</r> <r>[a][w]เฉลา</r> <r>[a][w]ตาว</r> <r>[a][w]พร้าว</r> <r>[a][w]หวัว</r> <r>[a][w]เหงา</r> <r>[a][w]เปล่า</r> <r>[a][w]เสลา</r> <r>[a][w]เอา</r> <r>[a][w]เล่า</r> <r>[a][w]เห่า</r> <r>[a][w]ป่าว</r> <r>[a][w]เรา</r> <r>[a][w]ดาว</r> <r>[a][w]เมา</r> <r>[a][w]กาว</r> <r>[a][w]เม้า</r> <r>[a][w]วาว</r> <r>[a][w]เต๋า</r> <r>[a][w]เว้า</r> <r>[a][w]หลาว</r> <r>[a][w]เงา</r> <r>[a][w]ว้าว</r> <r>[a][w]เส้า</r> <r>[a][w]เพลา</r> <r>[a][w]เง่า</r> <r>[a][w]คาว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [ua]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua]ยั่ว</r> <r>[ua]ครัว</r> <r>[ua]มั่ว</r> <r>[ua]มัว</r> <r>[ua]วัว</r> <r>[ua]ปัว</r> <r>[ua]ทั่ว</r> <r>[ua]ผัวะ</r> <r>[ua]กลั้ว</r> <r>[ua]หลัว</r> <r>[ua]ลัว</r> <r>[ua]ผลัวะ</r> <r>[ua]อั่ว</r> <r>[ua]บัว</r> <r>[ua]จั่ว</r> <r>[ua]พลั่ว</r> <r>[ua]ตั๋ว</r> <r>[ua]กัว</r> <r>[ua]กั่ว</r> <r>[ua]ชั่ว</r> <r>[ua]งั่ว</r> <r>[ua]คั่ว</r> <r>[ua]ฉัวะ</r> <r>[ua]ตัว</r> <r>[ua]รั้ว</r> <r>[ua]กลัว</r> <r>[ua]ยั้ว</r> <r>[ua]ซัว</r> <r>[ua]รั่ว</r> <r>[ua]พัว</r> <r>[ua]ชั้ว</r> <r>[ua]งัว</r> <r>[ua]ดั้ว</r> <r>[ua]ขั้ว</r> <r>[ua]ขรัว</r> <r>[ua]รัว</r> <r>[ua]ผัว</r> <r>[ua]สัว</r> <r>[ua]หัว</r> <r>[ua]นัว</r> <r>[ua]ถั่ว</r> <r>[ua]ตั้ว</r> <r>[ua]ชัว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [o]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o]โล</r> <r>[o]โย่</r> <r>[o]โทร</r> <r>[o]โกร</r> <r>[o]โฮ่</r> <r>[o]โห</r> <r>[o]โภ</r> <r>[o]โถ</r> <r>[o]โส</r> <r>[o]โจ๊ะ</r> <r>[o]โก</r> <r>[o]โหว</r> <r>[o]โหล</r> <r>[o]โป้</r> <r>[o]โปะ</r> <r>[o]โย้</r> <r>[o]โอ่</r> <r>[o]โม</r> <r>[o]โต๊ะ</r> <r>[o]โบ</r> <r>[o]โม้</r> <r>[o]โห่</r> <r>[o]โญ</r> <r>[o]โค</r> <r>[o]โจ</r> <r>[o]โฉ่</r> <r>[o]โย</r> <r>[o]โห้</r> <r>[o]โล้</r> <r>[o]โละ</r> <r>[o]โศ</r> <r>[o]โกฏิ์</r> <r>[o]โปร</r> <r>[o]โท่</r> <r>[o]โอ</r> <r>[o]โท</r> <r>[o]โพ</r> <r>[o]โคร</r> <r>[o]โด</r> <r>[o]โฟ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [o][N] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][N]ฟ้ง</r> <r>[o][N]โหยง</r> <r>[o][N]วงศ์</r> <r>[o][N]โห้ง</r> <r>[o][N]โต่ง</r> <r>[o][N]โกร่ง</r> <r>[o][N]ปลง</r> <r>[o][N]สรง</r> <r>[o][N]ดงค์</r> <r>[o][N]ยง</r> <r>[o][N]รง</r> <r>[o][N]โขง</r> <r>[o][N]คง</r> <r>[o][N]โฉง</r> <r>[o][N]ฎงค์</r> <r>[o][N]โมง</r> <r>[o][N]ลง</r> <r>[o][N]ก๋ง</r> <r>[o][N]นง</r> <r>[o][N]วงษ์</r> <r>[o][N]มง</r> <r>[o][N]โค้ง</r> <r>[o][N]โมงค์</r> <r>[o][N]โง้ง</r> <r>[o][N]โด่ง</r> <r>[o][N]หรง</r> <r>[o][N]โล่ง</r> <r>[o][N]กง</r> <r>[o][N]โตง</r> <r>[o][N]โกรง</r> <r>[o][N]องค์</r> <r>[o][N]โคง</r> <r>[o][N]รงค์</r> <r>[o][N]หง</r> <r>[o][N]โว้ง</r> <r>[o][N]ตรง</r> <r>[o][N]โครง</r> <r>[o][N]โพล่ง</r> <r>[o][N]ชง</r> <r>[o][N]ทรง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [ia][p] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][p]เกียบ</r> <r>[ia][p]เหยียบ</r> <r>[ia][p]เสียบ</r> <r>[ia][p]เกรียบ</r> <r>[ia][p]เยียบ</r> <r>[ia][p]เชียบ</r> <r>[ia][p]เงียบ</r> <r>[ia][p]เทียบ</r> <r>[ia][p]เฉียบ</r> <r>[ia][p]เอียบ</r> <r>[ia][p]เนียบ</r> <r>[ia][p]เพียบ</r> <r>[ia][p]เตียบ</r> <r>[ia][p]เลียบ</r> <r>[ia][p]เซียบ</r> <r>[ia][p]เปี๊ยบ</r> <r>[ia][p]เบียบ</r> <r>[ia][p]เปรียบ</r> <r>[ia][p]เรียบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [u][p] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][p]ทุบ</r> <r>[u][p]ฟุบ</r> <r>[u][p]กูบ</r> <r>[u][p]หุบ</r> <r>[u][p]อุป</r> <r>[u][p]ชุบ</r> <r>[u][p]งุบ</r> <r>[u][p]หนุบ</r> <r>[u][p]งูบ</r> <r>[u][p]ผลุบ</r> <r>[u][p]กุบ</r> <r>[u][p]บุป</r> <r>[u][p]สูบ</r> <r>[u][p]คุป</r> <r>[u][p]บุพ</r> <r>[u][p]รูป</r> <r>[u][p]บุบ</r> <r>[u][p]หงุบ</r> <r>[u][p]กรุบ</r> <r>[u][p]ซูป</r> <r>[u][p]หลุบ</r> <r>[u][p]หรุบ</r> <r>[u][p]วูบ</r> <r>[u][p]อุบ</r> <r>[u][p]จุ๊บ</r> <r>[u][p]ทุพ</r> <r>[u][p]ยุบ</r> <r>[u][p]จุบ</r> <r>[u][p]ปุบ</r> <r>[u][p]วุบ</r> <r>[u][p]ครุบ</r> <r>[u][p]จูบ</r> <r>[u][p]ซุป</r> <r>[u][p]ตุบ</r> <r>[u][p]ซุบ</r> <r>[u][p]ซูบ</r> <r>[u][p]ธูป</r> <r>[u][p]รุบ</r> <r>[u][p]ขลุบ</r> <r>[u][p]ฮุบ</r> <r>[u][p]ลูบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [@][k]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][k]เลิก</r> <r>[@][k]ฤกษ์</r> <r>[@][k]เบิก</r> <r>[@][k]ฤก</r> <r>[@][k]เถิก</r> <r>[@][k]เกริก</r> <r>[@][k]เอิก</r> <r>[@][k]เพิก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What words in Thai have the [u] rhyme pattern?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[u]กรู</r> <r>[u]หมู</r> <r>[u]ดุ</r> <r>[u]ทุษฐ์</r> <r>[u]ฑุ</r> <r>[u]ปุ</r> <r>[u]ษุ</r> <r>[u]ฮู้</r> <r>[u]ศุ</r> <r>[u]กุ</r> <r>[u]ธุ</r> <r>[u]นู</r> <r>[u]กู</r> <r>[u]ฬู</r> <r>[u]บูรณ์</r> <r>[u]สู่</r> <r>[u]ขุ</r> <r>[u]กลู่</r> <r>[u]วู</r> <r>[u]หรุ</r> <r>[u]ณู</r> <r>[u]บู๊</r> <r>[u]ปรุ</r> <r>[u]จู</r> <r>[u]ภู่</r> <r>[u]รุ</r> <r>[u]คู่</r> <r>[u]อุ</r> <r>[u]ซู่</r> <r>[u]ยุ</r> <r>[u]จู๋</r> <r>[u]หู</r> <r>[u]ชุ</r> <r>[u]ตู้</r> <r>[u]ภูมิ์</r> <r>[u]กรุ</r> <r>[u]ดุ๋</r> <r>[u]ปู้</r> <r>[u]บู้</r> <r>[u]งู</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [a][t] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][t]ยาด</r> <r>[a][t]อัฏ</r> <r>[a][t]อัษ</r> <r>[a][t]ณัติ</r> <r>[a][t]พาด</r> <r>[a][t]นัท</r> <r>[a][t]วัจ</r> <r>[a][t]อัฐ</r> <r>[a][t]ศาส</r> <r>[a][t]ยาศน์อ</r> <r>[a][t]ศาสน์</r> <r>[a][t]บาทว์</r> <r>[a][t]คัด</r> <r>[a][t]มัช</r> <r>[a][t]ปัทว์</r> <r>[a][t]หาส</r> <r>[a][t]ทัช</r> <r>[a][t]สัด</r> <r>[a][t]ภัศ</r> <r>[a][t]มาสน์</r> <r>[a][t]พัฒน์</r> <r>[a][t]อัติ</r> <r>[a][t]วัติ</r> <r>[a][t]ดาษ</r> <r>[a][t]ลัด</r> <r>[a][t]มัติ</r> <r>[a][t]มาตร</r> <r>[a][t]ศัต</r> <r>[a][t]พัติ</r> <r>[a][t]บัทม์</r> <r>[a][t]ก๊าด</r> <r>[a][t]อัส</r> <r>[a][t]ยาตร์</r> <r>[a][t]มัด</r> <r>[a][t]มาสตร์</r> <r>[a][t]อาจ</r> <r>[a][t]ปลาศน์</r> <r>[a][t]นาจ</r> <r>[a][t]ภัส</r> <r>[a][t]อัช</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me rhyming Thai words for the [O][k] pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[O][k]หงอก</r> <r>[O][k]หยอก</r> <r>[O][k]งอก</r> <r>[O][k]ยอร์ก</r> <r>[O][k]หอก</r> <r>[O][k]ถอก</r> <r>[O][k]ช็อค</r> <r>[O][k]ผอก</r> <r>[O][k]บ๋อก</r> <r>[O][k]ร็อค</r> <r>[O][k]บอก</r> <r>[O][k]นอก</r> <r>[O][k]หรอก</r> <r>[O][k]คลอก</r> <r>[O][k]ลอก</r> <r>[O][k]กรอก</r> <r>[O][k]ซอก</r> <r>[O][k]ฉอก</r> <r>[O][k]ตอก</r> <r>[O][k]กอก</r> <r>[O][k]ยอก</r> <r>[O][k]ต๊อก</r> <r>[O][k]ล็อก</r> <r>[O][k]คอก</r> <r>[O][k]ปอก</r> <r>[O][k]ปลอก</r> <r>[O][k]ชอก</r> <r>[O][k]วอก</r> <r>[O][k]บ็อกซ์</r> <r>[O][k]รอก</r> <r>[O][k]ออก</r> <r>[O][k]ขอก</r> <r>[O][k]จอก</r> <r>[O][k]ทอก</r> <r>[O][k]ตรอก</r> <r>[O][k]ครอก</r> <r>[O][k]ฟอก</r> <r>[O][k]ดอก</r> <r>[O][k]หลอก</r> <r>[O][k]พอก</r> <r>[O][k]ศอก</r> <r>[O][k]หมอก</r> <r>[O][k]พรอก</r> <r>[O][k]กลอก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words that belong to the rhyme category [@]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@]เออ</r> <r>[@]เด้อร์</r> <r>[@]เนอ</r> <r>[@]เหนอ</r> <r>[@]เยอ</r> <r>[@]เล่อ</r> <r>[@]เผยอ</r> <r>[@]เฟอะ</r> <r>[@]เอ่อ</r> <r>[@]เร่อ</r> <r>[@]เสมอ</r> <r>[@]เบอร์</r> <r>[@]เกรอะ</r> <r>[@]เก้อ</r> <r>[@]เจอ</r> <r>[@]เปอร์</r> <r>[@]เจ๋อ</r> <r>[@]เออะ</r> <r>[@]เถ่อ</r> <r>[@]เจ้อ</r> <r>[@]เพ้อ</r> <r>[@]เมอ</r> <r>[@]เอ้อ</r> <r>[@]เฉอะ</r> <r>[@]เปอ</r> <r>[@]เนอร์</r> <r>[@]เธอร์</r> <r>[@]เสนอ</r> <r>[@]เวอร์</r> <r>[@]เง่อ</r> <r>[@]เตอ</r> <r>[@]เมอร์</r> <r>[@]เลอ</r> <r>[@]เป้อ</r> <r>[@]เบอ</r> <r>[@]เจอร์</r> <r>[@]เบอะ</r> <r>[@]เหน่อ</r> <r>[@]เว่อ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [a][n] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][n]พัญ</r> <r>[a][n]หันธ์</r> <r>[a][n]ดาล</r> <r>[a][n]กวาน</r> <r>[a][n]ศาลน์</r> <r>[a][n]ร้าน</r> <r>[a][n]ชาน</r> <r>[a][n]ถรรพณ์</r> <r>[a][n]ชาล</r> <r>[a][n]รัณฑ์</r> <r>[a][n]ลาญ</r> <r>[a][n]พลัน</r> <r>[a][n]บรรณ</r> <r>[a][n]ฟั้น</r> <r>[a][n]ตาร</r> <r>[a][n]หาน</r> <r>[a][n]ทั่น</r> <r>[a][n]ห่าน</r> <r>[a][n]ฝาน</r> <r>[a][n]วาฬ</r> <r>[a][n]หั้น</r> <r>[a][n]พัน</r> <r>[a][n]ยัน</r> <r>[a][n]จารย์</r> <r>[a][n]ขวาน</r> <r>[a][n]ยัณห์</r> <r>[a][n]ซั่น</r> <r>[a][n]ธารณ์</r> <r>[a][n]ตาน</r> <r>[a][n]หาร</r> <r>[a][n]กรรฐ์</r> <r>[a][n]ปรัน</r> <r>[a][n]คั่น</r> <r>[a][n]ผาล</r> <r>[a][n]จันทร์</r> <r>[a][n]ปราณ</r> <r>[a][n]ยั่น</r> <r>[a][n]จัน</r> <r>[a][n]ดัน</r> <r>[a][n]ถ่าน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [@][j] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][j]เคย</r> <r>[@][j]เผย</r> <r>[@][j]เอย</r> <r>[@][j]เย้ย</r> <r>[@][j]เปรย</r> <r>[@][j]เอ๋ย</r> <r>[@][j]เมย</r> <r>[@][j]เวย</r> <r>[@][j]เฉลย</r> <r>[@][j]เสย</r> <r>[@][j]เอ่ย</r> <r>[@][j]เชลย</r> <r>[@][j]เสวย</r> <r>[@][j]เกย</r> <r>[@][j]เนย</r> <r>[@][j]เฮ้ย</r> <r>[@][j]เงย</r> <r>[@][j]เหวย</r> <r>[@][j]เอ๊ย</r> <r>[@][j]เขนย</r> <r>[@][j]เสิย</r> <r>[@][j]เลย</r> <r>[@][j]เฉย</r> <r>[@][j]เทย</r> <r>[@][j]เตย</r> <r>[@][j]เชย</r> <r>[@][j]เสบย</r> <r>[@][j]เขย</r> <r>[@][j]เลิย</r> <r>[@][j]เหย</r> <r>[@][j]เพย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [a][t] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][t]ปัทม์</r> <r>[a][t]ถัด</r> <r>[a][t]กวัด</r> <r>[a][t]วาส</r> <r>[a][t]ภาส</r> <r>[a][t]ปัฐ</r> <r>[a][t]พัตถ์</r> <r>[a][t]ฝาด</r> <r>[a][t]ศาสตร์</r> <r>[a][t]ขัต</r> <r>[a][t]กาจ</r> <r>[a][t]หัศ</r> <r>[a][t]ญาติ</r> <r>[a][t]บัตร</r> <r>[a][t]ชัด</r> <r>[a][t]ธาตุ</r> <r>[a][t]บาท</r> <r>[a][t]ลาศ</r> <r>[a][t]วาต</r> <r>[a][t]ยาศน์</r> <r>[a][t]ผัด</r> <r>[a][t]รัศ</r> <r>[a][t]ราต</r> <r>[a][t]บัด</r> <r>[a][t]กาส</r> <r>[a][t]วัส</r> <r>[a][t]หนาด</r> <r>[a][t]มัต</r> <r>[a][t]พัตร</r> <r>[a][t]มัจ</r> <r>[a][t]นัส</r> <r>[a][t]ฆาต</r> <r>[a][t]นาดถ์</r> <r>[a][t]นาสน์</r> <r>[a][t]คลาด</r> <r>[a][t]ภาษ</r> <r>[a][t]รัฐ</r> <r>[a][t]ลัท</r> <r>[a][t]อาศน์</r> <r>[a][t]สาด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [@] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@]เผอ</r> <r>[@]เตอร์ม</r> <r>[@]เวอ</r> <r>[@]เบลอ</r> <r>[@]เยอร์</r> <r>[@]เถอะ</r> <r>[@]เยอะ</r> <r>[@]เธอ</r> <r>[@]เปอะ</r> <r>[@]เดอร์</r> <r>[@]เย่อ</r> <r>[@]เตอะ</r> <r>[@]เรอ</r> <r>[@]เพ่อ</r> <r>[@]เภอ</r> <r>[@]เดอะ</r> <r>[@]เวอน์</r> <r>[@]เลอร์</r> <r>[@]เหลอ</r> <r>[@]เจอะ</r> <r>[@]เง้อ</r> <r>[@]เงอะ</r> <r>[@]เซอะ</r> <r>[@]เปรอะ</r> <r>[@]เซอร์</r> <r>[@]เซ่อ</r> <r>[@]เทอร์</r> <r>[@]เคอะ</r> <r>[@]เดอ</r> <r>[@]เผลอ</r> <r>[@]เซอ</r> <r>[@]เครอะ</r> <r>[@]เหรอ</r> <r>[@]เชอ</r> <r>[@]เกลอ</r> <r>[@]เฟอร์</r> <r>[@]เทอะ</r> <r>[@]เลอะ</r> <r>[@]เตอร์</r> <r>[@]เว่อร์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [@][t] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][t]เบิร์ต</r> <r>[@][t]เมิด</r> <r>[@][t]เยิด</r> <r>[@][t]เตลิด</r> <r>[@][t]เจิด</r> <r>[@][t]เลิศ</r> <r>[@][t]เพริด</r> <r>[@][t]เถิด</r> <r>[@][t]เริศ</r> <r>[@][t]เหิด</r> <r>[@][t]เริด</r> <r>[@][t]เฟิสท์</r> <r>[@][t]เบิต</r> <r>[@][t]เปิด</r> <r>[@][t]เพิด</r> <r>[@][t]เสริฐ</r> <r>[@][t]เนิด</r> <r>[@][t]เพลิด</r> <r>[@][t]เบิด</r> <r>[@][t]เชิด</r> <r>[@][t]เสิด</r> <r>[@][t]เชิ้ต</r> <r>[@][t]เกิด</r> <r>[@][t]เพริศ</r> <r>[@][t]เฉิด</r> <r>[@][t]เฟิสต์</r> <r>[@][t]เดิด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [u][t] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][t]ทรุด</r> <r>[u][t]สุท</r> <r>[u][t]หลุด</r> <r>[u][t]รุตม์</r> <r>[u][t]ขูด</r> <r>[u][t]คุด</r> <r>[u][t]ชุด</r> <r>[u][t]ฮู้ด</r> <r>[u][t]ผุด</r> <r>[u][t]ทูธ</r> <r>[u][t]มุด</r> <r>[u][t]อุด</r> <r>[u][t]กุส</r> <r>[u][t]สูด</r> <r>[u][t]มุติ</r> <r>[u][t]กุฏ</r> <r>[u][t]บูท</r> <r>[u][t]ซูด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me rhyming Thai words for the [x][N] pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x][N]แกง</r> <r>[x][N]แย่ง</r> <r>[x][N]แหนง</r> <r>[x][N]แขนง</r> <r>[x][N]แบ้ง</r> <r>[x][N]แล่ง</r> <r>[x][N]แช่ง</r> <r>[x][N]แพลง</r> <r>[x][N]แจ้ง</r> <r>[x][N]แฝง</r> <r>[x][N]แคร่ง</r> <r>[x][N]แขย่ง</r> <r>[x][N]แปร่ง</r> <r>[x][N]แกลง</r> <r>[x][N]แบ่ง</r> <r>[x][N]แป๋ง</r> <r>[x][N]แมลง</r> <r>[x][N]แกร่ง</r> <r>[x][N]แหย่ง</r> <r>[x][N]แอ่ง</r> <r>[x][N]แคง</r> <r>[x][N]แปรง</r> <r>[x][N]แฟง</r> <r>[x][N]แก่ง</r> <r>[x][N]แข่ง</r> <r>[x][N]แป่ง</r> <r>[x][N]แก้ง</r> <r>[x][N]แว้ง</r> <r>[x][N]แผ่ง</r> <r>[x][N]แข็ง</r> <r>[x][N]แคลง</r> <r>[x][N]แร้ง</r> <r>[x][N]แป้ง</r> <r>[x][N]แบง</r> <r>[x][N]แสร้ง</r> <r>[x][N]แพล่ง</r> <r>[x][N]แกว่ง</r> <r>[x][N]แต้ง</r> <r>[x][N]แหน่ง</r> <r>[x][N]แครง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [i][n]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][n]นี่น</r> <r>[i][n]สินฑ์</r> <r>[i][n]วิญ</r> <r>[i][n]ฟิน</r> <r>[i][n]นิน</r> <r>[i][n]วิ่น</r> <r>[i][n]ฟิล</r> <r>[i][n]ณิน</r> <r>[i][n]ปลิ้น</r> <r>[i][n]เมฆิน</r> <r>[i][n]ปิน</r> <r>[i][n]ลิน</r> <r>[i][n]มิน</r> <r>[i][n]ซิ่น</r> <r>[i][n]หลิน</r> <r>[i][n]ณินทร์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [o][j] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][j]โกย</r> <r>[o][j]โบย</r> <r>[o][j]โชย</r> <r>[o][j]โอย</r> <r>[o][j]โพย</r> <r>[o][j]โสย</r> <r>[o][j]โปรย</r> <r>[o][j]โฮย</r> <r>[o][j]โคย</r> <r>[o][j]โกรย</r> <r>[o][j]โมย</r> <r>[o][j]โอ๊ย</r> <r>[o][j]โหย</r> <r>[o][j]โดย</r> <r>[o][j]โรย</r> <r>[o][j]โวย</r> <r>[o][j]โหวย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [U][N] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][N]นึง</r> <r>[U][N]ทึ้ง</r> <r>[U][N]ตรึงส์</r> <r>[U][N]ดึงส์</r> <r>[U][N]ขึ้ง</r> <r>[U][N]อึง</r> <r>[U][N]ลึงค์</r> <r>[U][N]อึ้ง</r> <r>[U][N]คลึง</r> <r>[U][N]ถึง</r> <r>[U][N]ตึง</r> <r>[U][N]ตึ้ง</r> <r>[U][N]มึง</r> <r>[U][N]ดึงษ์</r> <r>[U][N]ครึ่ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [i][n] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][n]ลิ้น</r> <r>[i][n]ควีน</r> <r>[i][n]ลี่น</r> <r>[i][n]คิน</r> <r>[i][n]สิล</r> <r>[i][n]ศิน</r> <r>[i][n]สิ้น</r> <r>[i][n]ปีน</r> <r>[i][n]บิล</r> <r>[i][n]วินด์</r> <r>[i][n]ถิน</r> <r>[i][n]หิน</r> <r>[i][n]ยิน</r> <r>[i][n]ควินน์</r> <r>[i][n]ศิลป์</r> <r>[i][n]ริน</r> <r>[i][n]อิน</r> <r>[i][n]มินทร์</r> <r>[i][n]รินทร์</r> <r>[i][n]จีน</r> <r>[i][n]วิน</r> <r>[i][n]บิ่น</r> <r>[i][n]ถิ่น</r> <r>[i][n]อินท์</r> <r>[i][n]ยีน</r> <r>[i][n]สิญจน์</r> <r>[i][n]ติน</r> <r>[i][n]สินทร์</r> <r>[i][n]มิฬ</r> <r>[i][n]ชิน</r> <r>[i][n]ษิณ</r> <r>[i][n]กลิ้น</r> <r>[i][n]มิล</r> <r>[i][n]บิน</r> <r>[i][n]ซิล</r> <r>[i][n]นิล</r> <r>[i][n]ผิน</r> <r>[i][n]วิลล์</r> <r>[i][n]ฝิ่น</r> <r>[i][n]ดิ่น</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [U][N] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][N]ทึ่ง</r> <r>[U][N]ซึ้ง</r> <r>[U][N]ตรึงษ์</r> <r>[U][N]นึ่ง</r> <r>[U][N]กรึง</r> <r>[U][N]พรึง</r> <r>[U][N]หึ่ง</r> <r>[U][N]ตึ๋ง</r> <r>[U][N]ปึ่ง</r> <r>[U][N]ซึ่ง</r> <r>[U][N]ปรึง</r> <r>[U][N]ดึ่ง</r> <r>[U][N]บึ้ง</r> <r>[U][N]กึง</r> <r>[U][N]อึ่ง</r> <r>[U][N]ปึง</r> <r>[U][N]ผึ้ง</r> <r>[U][N]หนื่ง</r> <r>[U][N]จึ้ง</r> <r>[U][N]ดึง</r> <r>[U][N]พึ่ง</r> <r>[U][N]ลึ่ง</r> <r>[U][N]พึง</r> <r>[U][N]หึงส์</r> <r>[U][N]ทึง</r> <r>[U][N]ตรึง</r> <r>[U][N]ฉึ่ง</r> <r>[U][N]ลึง</r> <r>[U][N]บึง</r> <r>[U][N]หึง</r> <r>[U][N]กึ่ง</r> <r>[U][N]รึง</r> <r>[U][N]ผึง</r> <r>[U][N]จึ่ง</r> <r>[U][N]ขึง</r> <r>[U][N]จึง</r> <r>[U][N]หนึ่ง</r> <r>[U][N]ผึ่ง</r> <r>[U][N]ฮึง</r> <r>[U][N]กลึง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show words where the rhyme is [u][N]."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][N]มุ่ง</r> <r>[u][N]จุง</r> <r>[u][N]ถุ้ง</r> <r>[u][N]ปรุง</r> <r>[u][N]สูง</r> <r>[u][N]สุ้ง</r> <r>[u][N]ฮุง</r> <r>[u][N]กรุ้ง</r> <r>[u][N]จุ่ง</r> <r>[u][N]อุ้ง</r> <r>[u][N]รุ่ง</r> <r>[u][N]ตุ๋ง</r> <r>[u][N]ชุง</r> <r>[u][N]ยุ้ง</r> <r>[u][N]พุ้ง</r> <r>[u][N]จูง</r> <r>[u][N]หุ่ง</r> <r>[u][N]กรุง</r> <r>[u][N]ผลุง</r> <r>[u][N]พรุ่ง</r> <r>[u][N]ลุ้ง</r> <r>[u][N]หนุ่ง</r> <r>[u][N]ตุ้ง</r> <r>[u][N]พุง</r> <r>[u][N]นุ่ง</r> <r>[u][N]มุ้ง</r> <r>[u][N]ยุง</r> <r>[u][N]ยูง</r> <r>[u][N]บุง</r> <r>[u][N]พุ่ง</r> <r>[u][N]ปุง</r> <r>[u][N]ฝูง</r> <r>[u][N]หุง</r> <r>[u][N]ฉุ่ง</r> <r>[u][N]รุ้ง</r> <r>[u][N]หนุง</r> <r>[u][N]พรุง</r> <r>[u][N]นุง</r> <r>[u][N]ยุ่ง</r> <r>[u][N]ทุ้ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me rhyming Thai words for the [a][n] pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][n]สัณ</r> <r>[a][n]หวาน</r> <r>[a][n]ขันธ์</r> <r>[a][n]วาน</r> <r>[a][n]บรรพ์</r> <r>[a][n]บรรจ์</r> <r>[a][n]ปัน</r> <r>[a][n]ฟัน</r> <r>[a][n]กรรจ์</r> <r>[a][n]ขาน</r> <r>[a][n]ฬาร</r> <r>[a][n]รัน</r> <r>[a][n]จรร</r> <r>[a][n]สัณท์</r> <r>[a][n]หาญ</r> <r>[a][n]ควัน</r> <r>[a][n]ทราน</r> <r>[a][n]ลัญ</r> <r>[a][n]ตาล</r> <r>[a][n]ลาน</r> <r>[a][n]สั้น</r> <r>[a][n]พาณ</r> <r>[a][n]หรรษ์</r> <r>[a][n]มัญ</r> <r>[a][n]มันต์</r> <r>[a][n]ฐาน</r> <r>[a][n]ชั่น</r> <r>[a][n]กัณฐ์</r> <r>[a][n]คาล</r> <r>[a][n]งาน</r> <r>[a][n]พราน</r> <r>[a][n]ญาน</r> <r>[a][n]จาน</r> <r>[a][n]กาล</r> <r>[a][n]ฟาน</r> <r>[a][n]วัณ</r> <r>[a][n]วาร</r> <r>[a][n]ขัณ</r> <r>[a][n]อัล</r> <r>[a][n]จัล</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Generate a set of Thai words with the [u][t] rhyme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][t]บุด</r> <r>[u][t]ปูด</r> <r>[u][t]หุด</r> <r>[u][t]พุธ</r> <r>[u][t]คูส</r> <r>[u][t]มุต</r> <r>[u][t]ศูจน์</r> <r>[u][t]ดุจ</r> <r>[u][t]ดุด</r> <r>[u][t]ฉูด</r> <r>[u][t]สูจน์</r> <r>[u][t]คุตร์</r> <r>[u][t]ปุจ</r> <r>[u][t]อูฐ</r> <r>[u][t]ขุด</r> <r>[u][t]กุฎ</r> <r>[u][t]กรูด</r> <r>[u][t]ครุฑ</r> <r>[u][t]นุช</r> <r>[u][t]พุท</r> <r>[u][t]สุจ</r> <r>[u][t]รุด</r> <r>[u][t]ทุด</r> <r>[u][t]หมุด</r> <r>[u][t]บูด</r> <r>[u][t]รุต</r> <r>[u][t]พุด</r> <r>[u][t]รูด</r> <r>[u][t]จุด</r> <r>[u][t]อูด</r> <r>[u][t]วูด</r> <r>[u][t]วุท</r> <r>[u][t]มุทร</r> <r>[u][t]รุษ</r> <r>[u][t]ฉุด</r> <r>[u][t]ทูต</r> <r>[u][t]พุทธ</r> <r>[u][t]ภูต</r> <r>[u][t]พุฒ</r> <r>[u][t]อุต</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List Thai words with the [a][n] rhyme pattern."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][n]นรร</r> <r>[a][n]พล่าน</r> <r>[a][n]คัญ</r> <r>[a][n]วัณย์</r> <r>[a][n]นัน</r> <r>[a][n]บัลย์</r> <r>[a][n]มาณ</r> <r>[a][n]ด้าน</r> <r>[a][n]ฉัน</r> <r>[a][n]ชัน</r> <r>[a][n]ส่าน</r> <r>[a][n]กันต์</r> <r>[a][n]หรัญ</r> <r>[a][n]ผ่าน</r> <r>[a][n]ล้าน</r> <r>[a][n]คร้าน</r> <r>[a][n]มัน</r> <r>[a][n]ภัณฑ์</r> <r>[a][n]ตั้น</r> <r>[a][n]พรรณ</r> <r>[a][n]สัณฑ์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give me a group of Thai words that have the [o][n] ending."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][n]ทนต์</r> <r>[o][n]โพน</r> <r>[o][n]มนตร์</r> <r>[o][n]โปน</r> <r>[o][n]มล</r> <r>[o][n]ย่น</r> <r>[o][n]ทน</r> <r>[o][n]อล</r> <r>[o][n]ฐรณ์</r> <r>[o][n]โหร</r> <r>[o][n]โกน</r> <r>[o][n]ก่น</r> <r>[o][n]พณ</r> <r>[o][n]โฟน</r> <r>[o][n]งน</r> <r>[o][n]โคน</r> <r>[o][n]จ้น</r> <r>[o][n]โป่น</r> <r>[o][n]คน</r> <r>[o][n]สน</r> <r>[o][n]โมน</r> <r>[o][n]โกลน</r> <r>[o][n]อ้น</r> <r>[o][n]โกร๋น</r> <r>[o][n]นนท์</r> <r>[o][n]กน</r> <r>[o][n]ยนตร์</r> <r>[o][n]ลน</r> <r>[o][n]โดน</r> <r>[o][n]หล่น</r> <r>[o][n]กนธ์</r> <r>[o][n]โซน</r> <r>[o][n]ค่น</r> <r>[o][n]กล่น</r> <r>[o][n]ชนม</r> <r>[o][n]โน้น</r> <r>[o][n]รน</r> <r>[o][n]มณ</r> <r>[o][n]จน</r> <r>[o][n]ค้น</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find words that fit the [a][n] rhyme scheme."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][n]ปัญ</r> <r>[a][n]ฆาร</r> <r>[a][n]คาญ</r> <r>[a][n]กรร</r> <r>[a][n]ทาน</r> <r>[a][n]ราญ</r> <r>[a][n]วันต์</r> <r>[a][n]ชั้น</r> <r>[a][n]อ่าน</r> <r>[a][n]หาริย์</r> <r>[a][n]ท้าน</r> <r>[a][n]บั้น</r> <r>[a][n]สาน</r> <r>[a][n]พันธ์</r> <r>[a][n]ป่าน</r> <r>[a][n]ร่าน</r> <r>[a][n]หนาน</r> <r>[a][n]หง่าน</r> <r>[a][n]พัล</r> <r>[a][n]ภาร</r> <r>[a][n]มั่น</r> <r>[a][n]นั้น</r> <r>[a][n]หยั่น</r> <r>[a][n]ครั่น</r> <r>[a][n]กั่น</r> <r>[a][n]สรร</r> <r>[a][n]ยาน</r> <r>[a][n]บัณ</r> <r>[a][n]ตัณ</r> <r>[a][n]ยัญ</r> <r>[a][n]ญาณ</r> <r>[a][n]จ้าน</r> <r>[a][n]ธัญ</r> <r>[a][n]ปลัน</r> <r>[a][n]ซาน</r> <r>[a][n]ควั่น</r> <r>[a][n]มาน</r> <r>[a][n]ปราน</r> <r>[a][n]หมั้น</r> <r>[a][n]สาล</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me Thai words ending with the [o] sound."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o]โง</r> <r>[o]โล่</r> <r>[o]โว้</r> <r>[o]โล่ห์</r> <r>[o]โหว่</r> <r>[o]โจ้</r> <r>[o]โร่</r> <r>[o]โฉ</r> <r>[o]โอ๋</r> <r>[o]โอษฐ์</r> <r>[o]โง่</r> <r>[o]โดว์</r> <r>[o]โพล้</r> <r>[o]โปร์</r> <r>[o]โร</r> <r>[o]โฆ</r> <r>[o]โป๊</r> <r>[o]โต้</r> <r>[o]โน</r> <r>[o]โว</r> <r>[o]โฮ</r> <r>[o]โข</r> <r>[o]โอ้</r> <r>[o]โก๋</r> <r>[o]โหล่</r> <r>[o]โฑ</r> <r>[o]โพล่</r> <r>[o]โธ่</r> <r>[o]โช</r> <r>[o]โป</r> <r>[o]โป๊ะ</r> <r>[o]โต</r> <r>[o]โผ</r> <r>[o]โซ่</r> <r>[o]โซ</r> <r>[o]โธ</r> <r>[o]โม่</r> <r>[o]โผล่</r> <r>[o]โลว์</r> <r>[o]โก้</r> <r>[o]โณ</r> <r>[o]โพธิ์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like ฟิล์ม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][m]สิม</r> <r>[i][m]จิ๋ม</r> <r>[i][m]จิ้ม</r> <r>[i][m]ปิ่ม</r> <r>[i][m]ติ๋ม</r> <r>[i][m]กริ่ม</r> <r>[i][m]กิม</r> <r>[i][m]ริม</r> <r>[i][m]ยิ้ม</r> <r>[i][m]ทิ่ม</r> <r>[i][m]ฟิล์ม</r> <r>[i][m]หยิม</r> <r>[i][m]ปริ่ม</r> <r>[i][m]ลิ่ม</r> <r>[i][m]พริ้ม</r> <r>[i][m]คิม</r> <r>[i][m]ฉิม</r> <r>[i][m]หลิ่ม</r> <r>[i][m]ซิม</r> <r>[i][m]ชิม</r> <r>[i][m]หงิม</r> <r>[i][m]จิม</r> <r>[i][m]อิ่ม</r> <r>[i][m]พิมพ์</r> <r>[i][m]ติ่ม</r> <r>[i][m]กริม</r> <r>[i][m]พิม</r> <r>[i][m]นิ่ม</r> <r>[i][m]ลิ้ม</r> <r>[i][m]ยิม</r> <r>[i][m]รีม</r> <r>[i][m]ปิ้ม</r> <r>[i][m]ทิม</r> <r>[i][m]ติ้ม</r> <r>[i][m]หยิ่ม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as เริ้ม?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][m]เคลิ้ม</r> <r>[@][m]เริ่ม</r> <r>[@][m]เติม</r> <r>[@][m]เฉลิม</r> <r>[@][m]เฟิร์ม</r> <r>[@][m]เทิ้ม</r> <r>[@][m]เสริม</r> <r>[@][m]เริ้ม</r> <r>[@][m]เจิม</r> <r>[@][m]เหิม</r> <r>[@][m]เดิม</r> <r>[@][m]เพิ่ม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as ปลื้ม?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][m]หึ่ม</r> <r>[U][m]ทึม</r> <r>[U][m]ซึม</r> <r>[U][m]ยืม</r> <r>[U][m]ดื่ม</r> <r>[U][m]หึม</r> <r>[U][m]หงึม</r> <r>[U][m]ทึ้ม</r> <r>[U][m]ครึ้ม</r> <r>[U][m]อืม</r> <r>[U][m]งึ้ม</r> <r>[U][m]ปลื้ม</r> <r>[U][m]ขรึม</r> <r>[U][m]ลืม</r> <r>[U][m]พึม</r> <r>[U][m]ครึ่ม</r> <r>[U][m]ครึม</r> <r>[U][m]งึม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with เรียก."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][k]เกียก</r> <r>[ia][k]เหนียก</r> <r>[ia][k]เรียก</r> <r>[ia][k]เยียก</r> <r>[ia][k]เพรียก</r> <r>[ia][k]เจียก</r> <r>[ia][k]เปียก</r> <r>[ia][k]เกรียก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with เคี้ย."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia]เพี้ย</r> <r>[ia]เคลีย</r> <r>[ia]เวีย</r> <r>[ia]เงี่ย</r> <r>[ia]เกี๋ย</r> <r>[ia]เชีย</r> <r>[ia]เปรียะ</r> <r>[ia]เกลี่ย</r> <r>[ia]เฮีย</r> <r>[ia]เจีย</r> <r>[ia]เลีย</r> <r>[ia]เงีย</r> <r>[ia]เรี่ย</r> <r>[ia]เหลี่ย</r> <r>[ia]เงี้ย</r> <r>[ia]เพลีย</r> <r>[ia]เอลี่ย</r> <r>[ia]เยีย</r> <r>[ia]เหี่ย</r> <r>[ia]เซีย</r> <r>[ia]เปลี้ย</r> <r>[ia]เฉลี่ย</r> <r>[ia]เชียร์</r> <r>[ia]เยี้ย</r> <r>[ia]เอียร์</r> <r>[ia]เหี้ย</r> <r>[ia]เดี้ย</r> <r>[ia]เพลี้ย</r> <r>[ia]เคี้ย</r> <r>[ia]เสีย</r> <r>[ia]เกีย</r> <r>[ia]เนีย</r> <r>[ia]เดีย</r> <r>[ia]เปีย</r> <r>[ia]เกลี้ย</r> <r>[ia]เบียร์</r> <r>[ia]เขี่ย</r> <r>[ia]เรีย</r> <r>[ia]เตี้ย</r> <r>[ia]เตีย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as ภัพ?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][p]ทราบ</r> <r>[a][p]จาบ</r> <r>[a][p]ทาบ</r> <r>[a][p]ลัพธ์</r> <r>[a][p]อัป</r> <r>[a][p]ลาภ</r> <r>[a][p]หงับ</r> <r>[a][p]ผลับ</r> <r>[a][p]พลับ</r> <r>[a][p]บับ</r> <r>[a][p]ดับ</r> <r>[a][p]ยับ</r> <r>[a][p]ลับ</r> <r>[a][p]ดาบ</r> <r>[a][p]หนาบ</r> <r>[a][p]ปลับ</r> <r>[a][p]ชับ</r> <r>[a][p]กับ</r> <r>[a][p]งาบ</r> <r>[a][p]คาบ</r> <r>[a][p]ผับ</r> <r>[a][p]บรรพ</r> <r>[a][p]ปราบ</r> <r>[a][p]ฉับ</r> <r>[a][p]พับ</r> <r>[a][p]วับ</r> <r>[a][p]จับ</r> <r>[a][p]ทรัพย์</r> <r>[a][p]ภาพ</r> <r>[a][p]วาบ</r> <r>[a][p]ทัพ</r> <r>[a][p]หรับ</r> <r>[a][p]ขวับ</r> <r>[a][p]บาป</r> <r>[a][p]นับ</r> <r>[a][p]หับ</r> <r>[a][p]ยัพ</r> <r>[a][p]กราฟ</r> <r>[a][p]ผ้าพ</r> <r>[a][p]ฉาบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as เขษม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][m]เล่ม</r> <r>[e][m]เอม</r> <r>[e][m]เทมส์</r> <r>[e][m]เขษม</r> <r>[e][m]เข้ม</r> <r>[e][m]เหม</r> <r>[e][m]เกม</r> <r>[e][m]เข็ม</r> <r>[e][m]เอ็ม</r> <r>[e][m]เค็ม</r> <r>[e][m]เต็ม</r> <r>[e][m]เล็ม</r> <r>[e][m]เษม</r> <r>[e][m]เจมส์</r> <r>[e][m]เท็ม</r> <r>[e][m]เอ็มส์</r> <r>[e][m]เกษม</r> <r>[e][m]เกมส์</r> <r>[e][m]เย็ม</r> <r>[e][m]เด็ม</r> <r>[e][m]เปรม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with แถม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x][m]แฉล้ม</r> <r>[x][m]แฮม</r> <r>[x][m]แกรม</r> <r>[x][m]แปม</r> <r>[x][m]แต้ม</r> <r>[x][m]แหลม</r> <r>[x][m]แย้ม</r> <r>[x][m]แหยม</r> <r>[x][m]แขม</r> <r>[x][m]แลม</r> <r>[x][m]แฟ้ม</r> <r>[x][m]แนม</r> <r>[x][m]แหม่ม</r> <r>[x][m]แหนม</r> <r>[x][m]แง้ม</r> <r>[x][m]แรม</r> <r>[x][m]แก้ม</r> <r>[x][m]แคม</r> <r>[x][m]แงม</r> <r>[x][m]แจ่ม</r> <r>[x][m]แช่ม</r> <r>[x][m]แมม</r> <r>[x][m]แอม</r> <r>[x][m]แถม</r> <r>[x][m]แกล้ม</r> <r>[x][m]แซม</r> <r>[x][m]แวม</r> <r>[x][m]แกม</r> <r>[x][m]แพลม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to เปิง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][N]เกิง</r> <r>[@][N]เพิง</r> <r>[@][N]เทิ่ง</r> <r>[@][N]เจิ่ง</r> <r>[@][N]เทิง</r> <r>[@][N]เติ่ง</r> <r>[@][N]เอ้องค์</r> <r>[@][N]เวิ้ง</r> <r>[@][N]เบิ่ง</r> <r>[@][N]เลิ้ง</r> <r>[@][N]เถลิง</r> <r>[@][N]เซิง</r> <r>[@][N]เพิ่ง</r> <r>[@][N]เลิง</r> <r>[@][N]เพลิง</r> <r>[@][N]เปิง</r> <r>[@][N]เจิง</r> <r>[@][N]เวิง</r> <r>[@][N]เริง</r> <r>[@][N]เหลิง</r> <r>[@][N]เหยิง</r> <r>[@][N]เชิง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as หว่าง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][N]ท้าง</r> <r>[a][N]ช่าง</r> <r>[a][N]อ้าง</r> <r>[a][N]กลัง</r> <r>[a][N]ย่าง</r> <r>[a][N]ตั้ง</r> <r>[a][N]กาง</r> <r>[a][N]ปรัง</r> <r>[a][N]พลั้ง</r> <r>[a][N]วัง</r> <r>[a][N]ส่าง</r> <r>[a][N]ยัง</r> <r>[a][N]ชัง</r> <r>[a][N]สังฆ์</r> <r>[a][N]อาง</r> <r>[a][N]จั้ง</r> <r>[a][N]กราง</r> <r>[a][N]มั้ง</r> <r>[a][N]ซาง</r> <r>[a][N]ปลั่ง</r> <r>[a][N]คราง</r> <r>[a][N]อั้ง</r> <r>[a][N]หลาง</r> <r>[a][N]สร้าง</r> <r>[a][N]วางศ์</r> <r>[a][N]หยั่ง</r> <r>[a][N]หรั่ง</r> <r>[a][N]จัง</r> <r>[a][N]ขว้าง</r> <r>[a][N]คัง</r> <r>[a][N]ซัง</r> <r>[a][N]ฉาง</r> <r>[a][N]คลาง</r> <r>[a][N]ปลัง</r> <r>[a][N]ร้าง</r> <r>[a][N]ฝัง</r> <r>[a][N]หัง</r> <r>[a][N]ผลัง</r> <r>[a][N]หว่าง</r> <r>[a][N]กัง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with เมิน."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][n]เอิ้น</r> <r>[@][n]เผิน</r> <r>[@][n]เยิน</r> <r>[@][n]เกิ้ล</r> <r>[@][n]เริญ</r> <r>[@][n]เมิน</r> <r>[@][n]เงิ่น</r> <r>[@][n]เยิ่น</r> <r>[@][n]เดิล</r> <r>[@][n]เชิน</r> <r>[@][n]เดิน</r> <r>[@][n]เจิ่น</r> <r>[@][n]เพลิน</r> <r>[@][n]เจริญ</r> <r>[@][n]เผอิญ</r> <r>[@][n]เงิน</r> <r>[@][n]เสริญ</r> <r>[@][n]เบิล</r> <r>[@][n]เทิร์น</r> <r>[@][n]เชิญ</r> <r>[@][n]เฉิน</r> <r>[@][n]เลิน</r> <r>[@][n]เนิ่น</r> <r>[@][n]เขิน</r> <r>[@][n]เกิน</r> <r>[@][n]เอิน</r> <r>[@][n]เหิน</r> <r>[@][n]เนิน</r> <r>[@][n]เพิ่น</r> <r>[@][n]เฟิล</r> <r>[@][n]เขิญ</r> <r>[@][n]เจิ้น</r> <r>[@][n]เกริ่น</r> <r>[@][n]เถิน</r> <r>[@][n]เทิ้น</r> <r>[@][n]เทิน</r> <r>[@][n]เบิ้ล</r> <r>[@][n]เอิญ</r> <r>[@][n]เปิ้ล</r> <r>[@][n]เกริน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with เปรอะ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@]เตอ</r> <r>[@]เล่อ</r> <r>[@]เซอร์</r> <r>[@]เอ่อ</r> <r>[@]เตอร์</r> <r>[@]เบอร์</r> <r>[@]เว่อ</r> <r>[@]เคอะ</r> <r>[@]เฉอะ</r> <r>[@]เกลอ</r> <r>[@]เนอ</r> <r>[@]เดอ</r> <r>[@]เหน่อ</r> <r>[@]เปอร์</r> <r>[@]เง้อ</r> <r>[@]เลอร์</r> <r>[@]เผอ</r> <r>[@]เจ๋อ</r> <r>[@]เปอะ</r> <r>[@]เก้อ</r> <r>[@]เบอะ</r> <r>[@]เออะ</r> <r>[@]เผลอ</r> <r>[@]เลอ</r> <r>[@]เลอะ</r> <r>[@]เธอ</r> <r>[@]เฟอะ</r> <r>[@]เด้อร์</r> <r>[@]เป้อ</r> <r>[@]เนอร์</r> <r>[@]เบอ</r> <r>[@]เออ</r> <r>[@]เจอ</r> <r>[@]เวอร์</r> <r>[@]เปอ</r> <r>[@]เดอะ</r> <r>[@]เง่อ</r> <r>[@]เซอ</r> <r>[@]เจอร์</r> <r>[@]เปรอะ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with กือ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U]ทือ</r> <r>[U]หือ</r> <r>[U]ตื๋อ</r> <r>[U]ปื๋อ</r> <r>[U]ตือ</r> <r>[U]ตื้อ</r> <r>[U]ฮื้อ</r> <r>[U]ลือ</r> <r>[U]ซื้่อ</r> <r>[U]ตึ</r> <r>[U]พรื้อ</r> <r>[U]ชื้อ</r> <r>[U]พือ</r> <r>[U]ฮือ</r> <r>[U]รือ</r> <r>[U]สื่อ</r> <r>[U]ลื้อ</r> <r>[U]ปื้อ</r> <r>[U]อื้อ</r> <r>[U]ทื่อ</r> <r>[U]สือ</r> <r>[U]ซือ</r> <r>[U]ดื้อ</r> <r>[U]ฤๅ</r> <r>[U]มึ</r> <r>[U]มือ</r> <r>[U]รื้อ</r> <r>[U]มื้อ</r> <r>[U]ถือ</r> <r>[U]ยื้อ</r> <r>[U]หรือ</r> <r>[U]คือ</r> <r>[U]ฤ</r> <r>[U]หวือ</r> <r>[U]ขื่อ</r> <r>[U]ฦๅ</r> <r>[U]กือ</r> <r>[U]ซื้อ</r> <r>[U]ปรือ</r> <r>[U]ชื่อ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as ลิ่ว?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][w]ทิว</r> <r>[i][w]ริ้ว</r> <r>[i][w]จิ้ว</r> <r>[i][w]นิว</r> <r>[i][w]หลิ่ว</r> <r>[i][w]ลิ่ว</r> <r>[i][w]งิ้ว</r> <r>[i][w]นิ่ว</r> <r>[i][w]คริว</r> <r>[i][w]ซิว</r> <r>[i][w]อิ้ว</r> <r>[i][w]สิว</r> <r>[i][w]หวิว</r> <r>[i][w]กิ่ว</r> <r>[i][w]หิว</r> <r>[i][w]คิว</r> <r>[i][w]สิ่ว</r> <r>[i][w]จิ๋ว</r> <r>[i][w]หิ้ว</r> <r>[i][w]ผิว</r> <r>[i][w]ติ๋ว</r> <r>[i][w]ผิ่ว</r> <r>[i][w]กริ้ว</r> <r>[i][w]วิว</r> <r>[i][w]กริว</r> <r>[i][w]มิว</r> <r>[i][w]พิว</r> <r>[i][w]ฉิว</r> <r>[i][w]ชิว</r> <r>[i][w]พลิ้ว</r> <r>[i][w]นิ้ว</r> <r>[i][w]ติ้ว</r> <r>[i][w]คิ้ว</r> <r>[i][w]ลิว</r> <r>[i][w]ปลิว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with วุธ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][t]พุท</r> <r>[u][t]สูจน์</r> <r>[u][t]ยุด</r> <r>[u][t]ทรุด</r> <r>[u][t]ทูธ</r> <r>[u][t]ลูด</r> <r>[u][t]ดูด</r> <r>[u][t]พุฒ</r> <r>[u][t]ฉุด</r> <r>[u][t]หุด</r> <r>[u][t]พุธ</r> <r>[u][t]ทุด</r> <r>[u][t]ศูจน์</r> <r>[u][t]กุฏ</r> <r>[u][t]ปูด</r> <r>[u][t]มุต</r> <r>[u][t]รุท</r> <r>[u][t]งุด</r> <r>[u][t]พุด</r> <r>[u][t]รู้จ</r> <r>[u][t]บุตร</r> <r>[u][t]ตรุษ</r> <r>[u][t]บูท</r> <r>[u][t]กุด</r> <r>[u][t]จุด</r> <r>[u][t]ทูต</r> <r>[u][t]กูด</r> <r>[u][t]รุต</r> <r>[u][t]มุติ</r> <r>[u][t]ปรูด</r> <r>[u][t]หมุด</r> <r>[u][t]ดุจ</r> <r>[u][t]คุตร์</r> <r>[u][t]ยุทธ</r> <r>[u][t]หลุด</r> <r>[u][t]บู้ท</r> <r>[u][t]ยุท</r> <r>[u][t]รุทร</r> <r>[u][t]หวุด</r> <r>[u][t]บูด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as แกล้ว?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[x][w]แขว</r> <r>[x][w]แจว</r> <r>[x][w]แวว</r> <r>[x][w]แพ้ว</r> <r>[x][w]แผ้ว</r> <r>[x][w]แมว</r> <r>[x][w]แต้ว</r> <r>[x][w]แกว</r> <r>[x][w]แพรว</r> <r>[x][w]แซว</r> <r>[x][w]แม้ว</r> <r>[x][w]แหว</r> <r>[x][w]แฉว</r> <r>[x][w]แล้ว</r> <r>[x][w]แพว</r> <r>[x][w]แนว</r> <r>[x][w]แจ้ว</r> <r>[x][w]แกล้ว</r> <r>[x][w]แอ่ว</r> <r>[x][w]แด่ว</r> <r>[x][w]แจ๊ว</r> <r>[x][w]แซ่ว</r> <r>[x][w]แก้ว</r> <r>[x][w]แว่ว</r> <r>[x][w]แจ่ว</r> <r>[x][w]แจ๋ว</r> <r>[x][w]แคล่ว</r> <r>[x][w]แคล้ว</r> <r>[x][w]แหยว</r> <r>[x][w]แอว</r> <r>[x][w]แถว</r> <r>[x][w]แล่ว</r> <r>[x][w]แหวว</r> <r>[x][w]แตว</r> <r>[x][w]แร้ว</r> <r>[x][w]แบว</r> <r>[x][w]แพร้ว</r> <r>[x][w]แน่ว</r> <r>[x][w]แป้ว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with เคอะ in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[@]เลอะ</r> <r>[@]เทอะ</r> <r>[@]เปอะ</r> <r>[@]เกรอะ</r> <r>[@]เคอะ</r> <r>[@]เว่อร์</r> <r>[@]เบลอ</r> <r>[@]เสมอ</r> <r>[@]เวอร์</r> <r>[@]เชอ</r> <r>[@]เอ้อ</r> <r>[@]เสนอ</r> <r>[@]เตอร์</r> <r>[@]เหนอ</r> <r>[@]เตอร์ม</r> <r>[@]เจ้อ</r> <r>[@]เมอร์</r> <r>[@]เครอะ</r> <r>[@]เบอร์</r> <r>[@]เวอน์</r> <r>[@]เวอ</r> <r>[@]เธอ</r> <r>[@]เปอร์</r> <r>[@]เจ๋อ</r> <r>[@]เดอ</r> <r>[@]เก้อ</r> <r>[@]เนอ</r> <r>[@]เว่อ</r> <r>[@]เถอะ</r> <r>[@]เซอร์</r> <r>[@]เจอร์</r> <r>[@]เผลอ</r> <r>[@]เยอะ</r> <r>[@]เด้อร์</r> <r>[@]เฟอร์</r> <r>[@]เร่อ</r> <r>[@]เนอร์</r> <r>[@]เพ่อ</r> <r>[@]เภอ</r> <r>[@]เกลอ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like โห่."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o]โย</r> <r>[o]โซ</r> <r>[o]โย้</r> <r>[o]โจ</r> <r>[o]โช</r> <r>[o]โละ</r> <r>[o]โปะ</r> <r>[o]โฑ</r> <r>[o]โฉ</r> <r>[o]โปร์</r> <r>[o]โล้</r> <r>[o]โท</r> <r>[o]โพล้</r> <r>[o]โพธิ์</r> <r>[o]โหล่</r> <r>[o]โป้</r> <r>[o]โกร</r> <r>[o]โก</r> <r>[o]โม่</r> <r>[o]โม</r> <r>[o]โทร</r> <r>[o]โฮ่</r> <r>[o]โต้</r> <r>[o]โผ</r> <r>[o]โย่</r> <r>[o]โฟ</r> <r>[o]โญ</r> <r>[o]โกฏิ์</r> <r>[o]โส</r> <r>[o]โม้</r> <r>[o]โภ</r> <r>[o]โธ</r> <r>[o]โถ</r> <r>[o]โจ้</r> <r>[o]โอ</r> <r>[o]โก๋</r> <r>[o]โด</r> <r>[o]โฉ่</r> <r>[o]โล</r> <r>[o]โจ๊ะ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as เดา?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][w]เปล่า</r> <r>[a][w]นาว</r> <r>[a][w]หาว</r> <r>[a][w]เขา</r> <r>[a][w]เหนา</r> <r>[a][w]เส่า</r> <r>[a][w]เหง้า</r> <r>[a][w]เบ้า</r> <r>[a][w]เนาว์</r> <r>[a][w]เล้า</r> <r>[a][w]น้าว</r> <r>[a][w]เคา</r> <r>[a][w]ร้าว</r> <r>[a][w]เพา</r> <r>[a][w]เด่า</r> <r>[a][w]คราว</r> <r>[a][w]เอา</r> <r>[a][w]เช้า</r> <r>[a][w]ตาว</r> <r>[a][w]ซาว</r> <r>[a][w]กราว</r> <r>[a][w]เง้า</r> <r>[a][w]เหร่า</r> <r>[a][w]เทา</r> <r>[a][w]เซ้า</r> <r>[a][w]ดาวน์</r> <r>[a][w]ส้าว</r> <r>[a][w]บ่าว</r> <r>[a][w]ว้าว</r> <r>[a][w]เข่า</r> <r>[a][w]เยาว์</r> <r>[a][w]ง้าว</r> <r>[a][w]ด้าว</r> <r>[a][w]เฉลา</r> <r>[a][w]เป่า</r> <r>[a][w]พาว</r> <r>[a][w]เซา</r> <r>[a][w]เท่า</r> <r>[a][w]ราว</r> <r>[a][w]เล่า</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with แฝง in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[x][N]แคลง</r> <r>[x][N]แต่ง</r> <r>[x][N]แถง</r> <r>[x][N]แขยง</r> <r>[x][N]แรง</r> <r>[x][N]แต้ง</r> <r>[x][N]แวง</r> <r>[x][N]แย้ง</r> <r>[x][N]แข็ง</r> <r>[x][N]แหน่ง</r> <r>[x][N]แซ่ง</r> <r>[x][N]แหย่ง</r> <r>[x][N]แขง</r> <r>[x][N]แพ่ง</r> <r>[x][N]แก้ง</r> <r>[x][N]แพง</r> <r>[x][N]แกร่ง</r> <r>[x][N]แสลง</r> <r>[x][N]แพร่ง</r> <r>[x][N]แคง</r> <r>[x][N]แทง</r> <r>[x][N]แช่ง</r> <r>[x][N]แบ่ง</r> <r>[x][N]แสวง</r> <r>[x][N]แดง</r> <r>[x][N]แสยง</r> <r>[x][N]แมลง</r> <r>[x][N]แท่ง</r> <r>[x][N]แกง</r> <r>[x][N]แฝง</r> <r>[x][N]แป๋ง</r> <r>[x][N]แล่ง</r> <r>[x][N]แปร่ง</r> <r>[x][N]แตง</r> <r>[x][N]แนง</r> <r>[x][N]แหล่ง</r> <r>[x][N]แห่ง</r> <r>[x][N]แจ้ง</r> <r>[x][N]แขย่ง</r> <r>[x][N]แซง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with หงิก."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][k]คิก</r> <r>[i][k]ฉีก</r> <r>[i][k]ปีก</r> <r>[i][k]กรีก</r> <r>[i][k]ดิก</r> <r>[i][k]หงิก</r> <r>[i][k]สิก</r> <r>[i][k]หลีก</r> <r>[i][k]ชิก</r> <r>[i][k]พริก</r> <r>[i][k]ปิก</r> <r>[i][k]ผลิกซ์</r> <r>[i][k]ติก</r> <r>[i][k]ลีก</r> <r>[i][k]หยิก</r> <r>[i][k]วิก</r> <r>[i][k]ดีก</r> <r>[i][k]มฤก</r> <r>[i][k]ผีก</r> <r>[i][k]จิก</r> <r>[i][k]นิค</r> <r>[i][k]กริก</r> <r>[i][k]พลิก</r> <r>[i][k]ยิก</r> <r>[i][k]ลิก</r> <r>[i][k]ภิก</r> <r>[i][k]ปริก</r> <r>[i][k]ฟิก</r> <r>[i][k]ปฤก</r> <r>[i][k]นิกส์</r> <r>[i][k]อิก</r> <r>[i][k]หลิก</r> <r>[i][k]อีก</r> <r>[i][k]ซีก</r> <r>[i][k]ฟิค</r> <r>[i][k]ญิก</r> <r>[i][k]ซิก</r> <r>[i][k]ปลีก</r> <r>[i][k]คิค</r> <r>[i][k]ริก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like เปรียบ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][p]เซียบ</r> <r>[ia][p]เหยียบ</r> <r>[ia][p]เนียบ</r> <r>[ia][p]เชียบ</r> <r>[ia][p]เงียบ</r> <r>[ia][p]เบียบ</r> <r>[ia][p]เปี๊ยบ</r> <r>[ia][p]เลียบ</r> <r>[ia][p]เทียบ</r> <r>[ia][p]เสียบ</r> <r>[ia][p]เตียบ</r> <r>[ia][p]เรียบ</r> <r>[ia][p]เพียบ</r> <r>[ia][p]เกรียบ</r> <r>[ia][p]เอียบ</r> <r>[ia][p]เฉียบ</r> <r>[ia][p]เปรียบ</r> <r>[ia][p]เกียบ</r> <r>[ia][p]เยียบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as ฉิ่ง?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][N]บิง</r> <r>[i][N]จิ้ง</r> <r>[i][N]นิ่ง</r> <r>[i][N]ติง</r> <r>[i][N]จิ่ง</r> <r>[i][N]นิง</r> <r>[i][N]กริ่ง</r> <r>[i][N]หิ่ง</r> <r>[i][N]สิง</r> <r>[i][N]ปิ้ง</r> <r>[i][N]ขิ้ง</r> <r>[i][N]นีง</r> <r>[i][N]ติ้ง</r> <r>[i][N]ขิง</r> <r>[i][N]หิง</r> <r>[i][N]ซิง</r> <r>[i][N]ผิง</r> <r>[i][N]ถีง</r> <r>[i][N]มิ่ง</r> <r>[i][N]อิ้ง</r> <r>[i][N]จริง</r> <r>[i][N]ที่ง</r> <r>[i][N]ยิ่ง</r> <r>[i][N]หริ่ง</r> <r>[i][N]พี่ง</r> <r>[i][N]หญิ้ง</r> <r>[i][N]หนิ่ง</r> <r>[i][N]ปริง</r> <r>[i][N]กริ้ง</r> <r>[i][N]พิงค์ฟ</r> <r>[i][N]กิ้ง</r> <r>[i][N]ลิง</r> <r>[i][N]มิงค์</r> <r>[i][N]ศิง</r> <r>[i][N]ดิ่ง</r> <r>[i][N]หิงคุ์</r> <r>[i][N]หยิ่ง</r> <r>[i][N]ทิ้ง</r> <r>[i][N]สิ่ง</r> <r>[i][N]วิ่ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like แสม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x]แกะ</r> <r>[x]แอ</r> <r>[x]แพะ</r> <r>[x]แฉะ</r> <r>[x]แล้</r> <r>[x]แคร่</r> <r>[x]แขะ</r> <r>[x]แต</r> <r>[x]แย่</r> <r>[x]แง</r> <r>[x]แกล</r> <r>[x]แน่</r> <r>[x]แหน่</r> <r>[x]แล่</r> <r>[x]แบ</r> <r>[x]แตร</r> <r>[x]แห่</r> <r>[x]แบะ</r> <r>[x]แจ้</r> <r>[x]แร้</r> <r>[x]แก่</r> <r>[x]แน</r> <r>[x]แพ้</r> <r>[x]แผ่</r> <r>[x]แฮร์</r> <r>[x]แจ่</r> <r>[x]แหละ</r> <r>[x]แขวะ</r> <r>[x]แปล</r> <r>[x]แซ้</r> <r>[x]แพร่</r> <r>[x]แฟะ</r> <r>[x]แร</r> <r>[x]แว</r> <r>[x]แอ้</r> <r>[x]แหง</r> <r>[x]แปร๋</r> <r>[x]แคล</r> <r>[x]แพ</r> <r>[x]แม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with พื่น in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][n]พื้น</r> <r>[U][n]รืน</r> <r>[U][n]ขื่น</r> <r>[U][n]ทึน</r> <r>[U][n]อื่น</r> <r>[U][n]พื่น</r> <r>[U][n]ครื้น</r> <r>[U][n]หืน</r> <r>[U][n]ขื้น</r> <r>[U][n]ชื่น</r> <r>[U][n]อื้น</r> <r>[U][n]ขืน</r> <r>[U][n]ฟื้น</r> <r>[U][n]ยืน</r> <r>[U][n]ฟืน</r> <r>[U][n]ฝืน</r> <r>[U][n]กลืน</r> <r>[U][n]ปืน</r> <r>[U][n]ลื่น</r> <r>[U][n]ชื้น</r> <r>[U][n]ขึ้น</r> <r>[U][n]ดื่น</r> <r>[U][n]มึน</r> <r>[U][n]ตื้น</r> <r>[U][n]บึน</r> <r>[U][n]ซืน</r> <r>[U][n]มืน</r> <r>[U][n]ผืน</r> <r>[U][n]ครืน</r> <r>[U][n]หมื่น</r> <r>[U][n]มื่น</r> <r>[U][n]คลื่น</r> <r>[U][n]ตื่น</r> <r>[U][n]รื่น</r> <r>[U][n]ยื่น</r> <r>[U][n]คืน</r> <r>[U][n]ชึ้น</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with เอ็มส์."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][m]เปรม</r> <r>[e][m]เต็ม</r> <r>[e][m]เค็ม</r> <r>[e][m]เท็ม</r> <r>[e][m]เอ็มส์</r> <r>[e][m]เข้ม</r> <r>[e][m]เย็ม</r> <r>[e][m]เล่ม</r> <r>[e][m]เกษม</r> <r>[e][m]เอ็ม</r> <r>[e][m]เขษม</r> <r>[e][m]เจมส์</r> <r>[e][m]เษม</r> <r>[e][m]เกม</r> <r>[e][m]เทมส์</r> <r>[e][m]เกมส์</r> <r>[e][m]เหม</r> <r>[e][m]เอม</r> <r>[e][m]เด็ม</r> <r>[e][m]เข็ม</r> <r>[e][m]เล็ม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with ไทย in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][j]ขัย</r> <r>[a][j]ไส</r> <r>[a][j]ไสย</r> <r>[a][j]ไกว</r> <r>[a][j]ว้าย</r> <r>[a][j]ใส่</r> <r>[a][j]ย้าย</r> <r>[a][j]ไคล</r> <r>[a][j]ใกล้</r> <r>[a][j]ไดรฟ์</r> <r>[a][j]ไมย</r> <r>[a][j]นัยน์</r> <r>[a][j]ฉัย</r> <r>[a][j]ชัย</r> <r>[a][j]รายน์</r> <r>[a][j]ไคล้</r> <r>[a][j]ด้าย</r> <r>[a][j]ใคร</r> <r>[a][j]ไลย</r> <r>[a][j]ไพ</r> <r>[a][j]ควาย</r> <r>[a][j]ไก๋</r> <r>[a][j]ใบ</r> <r>[a][j]ไธ</r> <r>[a][j]ไจ</r> <r>[a][j]ถ่าย</r> <r>[a][j]ใจ</r> <r>[a][j]ไฮต์</r> <r>[a][j]พลาย</r> <r>[a][j]ได่</r> <r>[a][j]ไนซ์</r> <r>[a][j]ฝ้าย</r> <r>[a][j]ไง</r> <r>[a][j]ภัย</r> <r>[a][j]สาย</r> <r>[a][j]ไผ่</r> <r>[a][j]ไก่</r> <r>[a][j]ไล</r> <r>[a][j]ไวท์</r> <r>[a][j]พาย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with มก in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][k]ชก</r> <r>[o][k]สกนธ์</r> <r>[o][k]โอก</r> <r>[o][k]โหนก</r> <r>[o][k]ฑก</r> <r>[o][k]โคก</r> <r>[o][k]ศรก</r> <r>[o][k]โขก</r> <r>[o][k]โดก</r> <r>[o][k]โภค</r> <r>[o][k]บก</r> <r>[o][k]ตก</r> <r>[o][k]ดก</r> <r>[o][k]โปก</r> <r>[o][k]โหลก</r> <r>[o][k]โจก</r> <r>[o][k]ฏก</r> <r>[o][k]จ้ค</r> <r>[o][k]โพก</r> <r>[o][k]อค</r> <r>[o][k]โขลก</r> <r>[o][k]โกก</r> <r>[o][k]โตก</r> <r>[o][k]โยค</r> <r>[o][k]สก</r> <r>[o][k]ฤค</r> <r>[o][k]โยก</r> <r>[o][k]ทก</r> <r>[o][k]คก</r> <r>[o][k]ผก</r> <r>[o][k]ปก</r> <r>[o][k]โหก</r> <r>[o][k]หงก</r> <r>[o][k]พก</r> <r>[o][k]จก</r> <r>[o][k]โหวก</r> <r>[o][k]ครก</r> <r>[o][k]อก</r> <r>[o][k]โอฆ</r> <r>[o][k]โครก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as ครึ้ม?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][m]หึม</r> <r>[U][m]ทึม</r> <r>[U][m]พึม</r> <r>[U][m]ครึ้ม</r> <r>[U][m]งึม</r> <r>[U][m]หงึม</r> <r>[U][m]หึ่ม</r> <r>[U][m]ซึม</r> <r>[U][m]งึ้ม</r> <r>[U][m]ขรึม</r> <r>[U][m]ทึ้ม</r> <r>[U][m]ครึ่ม</r> <r>[U][m]ลืม</r> <r>[U][m]ดื่ม</r> <r>[U][m]ครึม</r> <r>[U][m]อืม</r> <r>[U][m]ปลื้ม</r> <r>[U][m]ยืม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with เกิน."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][n]เสริญ</r> <r>[@][n]เฟิล</r> <r>[@][n]เพลิน</r> <r>[@][n]เชิน</r> <r>[@][n]เดิล</r> <r>[@][n]เปิ้ล</r> <r>[@][n]เขิญ</r> <r>[@][n]เขิน</r> <r>[@][n]เยิน</r> <r>[@][n]เทิ้น</r> <r>[@][n]เผิน</r> <r>[@][n]เอิ้น</r> <r>[@][n]เชิญ</r> <r>[@][n]เกริ่น</r> <r>[@][n]เจิ่น</r> <r>[@][n]เยิ่น</r> <r>[@][n]เฉิน</r> <r>[@][n]เถิน</r> <r>[@][n]เกิน</r> <r>[@][n]เงิน</r> <r>[@][n]เดิน</r> <r>[@][n]เทิน</r> <r>[@][n]เอิญ</r> <r>[@][n]เจิ้น</r> <r>[@][n]เลิน</r> <r>[@][n]เนิ่น</r> <r>[@][n]เกริน</r> <r>[@][n]เบิล</r> <r>[@][n]เริญ</r> <r>[@][n]เบิ้ล</r> <r>[@][n]เจริญ</r> <r>[@][n]เอิน</r> <r>[@][n]เมิน</r> <r>[@][n]เทิร์น</r> <r>[@][n]เงิ่น</r> <r>[@][n]เพิ่น</r> <r>[@][n]เผอิญ</r> <r>[@][n]เกิ้ล</r> <r>[@][n]เนิน</r> <r>[@][n]เหิน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like เฉลย?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][j]เอ๋ย</r> <r>[@][j]เขนย</r> <r>[@][j]เหวย</r> <r>[@][j]เสบย</r> <r>[@][j]เงย</r> <r>[@][j]เขย</r> <r>[@][j]เอ๊ย</r> <r>[@][j]เกย</r> <r>[@][j]เฉย</r> <r>[@][j]เคย</r> <r>[@][j]เมย</r> <r>[@][j]เย้ย</r> <r>[@][j]เฉลย</r> <r>[@][j]เวย</r> <r>[@][j]เอย</r> <r>[@][j]เฮ้ย</r> <r>[@][j]เสวย</r> <r>[@][j]เชลย</r> <r>[@][j]เนย</r> <r>[@][j]เอ่ย</r> <r>[@][j]เทย</r> <r>[@][j]เสย</r> <r>[@][j]เลย</r> <r>[@][j]เปรย</r> <r>[@][j]เตย</r> <r>[@][j]เหย</r> <r>[@][j]เชย</r> <r>[@][j]เผย</r> <r>[@][j]เลิย</r> <r>[@][j]เพย</r> <r>[@][j]เสิย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with มั้ย."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][j]ไหม้</r> <r>[a][j]ใหญ่</r> <r>[a][j]ลัย</r> <r>[a][j]ราย</r> <r>[a][j]ไกร</r> <r>[a][j]ถ่าย</r> <r>[a][j]ค่าย</r> <r>[a][j]ไส้</r> <r>[a][j]อาย</r> <r>[a][j]ใหม่</r> <r>[a][j]ไม่</r> <r>[a][j]ผ่าย</r> <r>[a][j]ทาย</r> <r>[a][j]ตรัย</r> <r>[a][j]ไดร์ฟ</r> <r>[a][j]ไต้</r> <r>[a][j]หาย</r> <r>[a][j]ไขว</r> <r>[a][j]ฝาย</r> <r>[a][j]พลาย</r> <r>[a][j]ได้</r> <r>[a][j]ไห่</r> <r>[a][j]ไหน</r> <r>[a][j]ไนล์</r> <r>[a][j]ไผล</r> <r>[a][j]ไพ่</r> <r>[a][j]ให้</r> <r>[a][j]ไคล</r> <r>[a][j]ไจ่</r> <r>[a][j]ไพ</r> <r>[a][j]ไข</r> <r>[a][j]ใภ้</r> <r>[a][j]ลาย</r> <r>[a][j]ไลท์</r> <r>[a][j]บ้าย</r> <r>[a][j]ไอ้</r> <r>[a][j]ไพล</r> <r>[a][j]ไฮต์</r> <r>[a][j]ไชย</r> <r>[a][j]ไคร่</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as ชวด."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][t]หวด</r> <r>[ua][t]ยวด</r> <r>[ua][t]ทรวด</r> <r>[ua][t]กวด</r> <r>[ua][t]บวช</r> <r>[ua][t]พรวด</r> <r>[ua][t]ปวด</r> <r>[ua][t]กรวด</r> <r>[ua][t]ลวด</r> <r>[ua][t]ตรวจ</r> <r>[ua][t]กวศ</r> <r>[ua][t]รวจ</r> <r>[ua][t]ปรวด</r> <r>[ua][t]งวด</r> <r>[ua][t]หนวด</r> <r>[ua][t]หมวด</r> <r>[ua][t]รวด</r> <r>[ua][t]ทวด</r> <r>[ua][t]นวด</r> <r>[ua][t]สวด</r> <r>[ua][t]ชวด</r> <r>[ua][t]อวด</r> <r>[ua][t]ขวด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as บุก?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][k]ปุก</r> <r>[u][k]ผูก</r> <r>[u][k]สูก</r> <r>[u][k]ยุก</r> <r>[u][k]รุก</r> <r>[u][k]พูก</r> <r>[u][k]บุก</r> <r>[u][k]ครุค</r> <r>[u][k]ซุก</r> <r>[u][k]กุ๊ก</r> <r>[u][k]ดุก</r> <r>[u][k]ปลุก</r> <r>[u][k]ยุค</r> <r>[u][k]ฮุก</r> <r>[u][k]ลุก</r> <r>[u][k]ศุกร์</r> <r>[u][k]บุค</r> <r>[u][k]ยุกต์</r> <r>[u][k]ถูก</r> <r>[u][k]หุก</r> <r>[u][k]ปลูก</r> <r>[u][k]รุกข์</r> <r>[u][k]อุก</r> <r>[u][k]ฮูก</r> <r>[u][k]ฟูก</r> <r>[u][k]คลุก</r> <r>[u][k]กุก</r> <r>[u][k]ตุ๊ก</r> <r>[u][k]หยูก</r> <r>[u][k]มูก</r> <r>[u][k]ลูก</r> <r>[u][k]หยุก</r> <r>[u][k]สุก</r> <r>[u][k]บุ๊ค</r> <r>[u][k]พุก</r> <r>[u][k]ศุข</r> <r>[u][k]ทุก</r> <r>[u][k]ศุก</r> <r>[u][k]พลุก</r> <r>[u][k]จุก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as ฤๅ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U]ซื่อ</r> <r>[U]กือ</r> <r>[U]ปื๋อ</r> <r>[U]ครึ</r> <r>[U]พรื้อ</r> <r>[U]ฦๅ</r> <r>[U]อือ</r> <r>[U]ตึ</r> <r>[U]ตือ</r> <r>[U]ปรื๋อ</r> <r>[U]ลื้อ</r> <r>[U]ปื้อ</r> <r>[U]พือ</r> <r>[U]คือ</r> <r>[U]ทื่อ</r> <r>[U]หือ</r> <r>[U]ยื้อ</r> <r>[U]สือ</r> <r>[U]หมือ</r> <r>[U]ดือ</r> <r>[U]ตื๋อ</r> <r>[U]ฮื้อ</r> <r>[U]ชื่อ</r> <r>[U]มื้อ</r> <r>[U]ฮือ</r> <r>[U]อื้อ</r> <r>[U]ฤ</r> <r>[U]รือ</r> <r>[U]ตื้อ</r> <r>[U]หวือ</r> <r>[U]ชื้อ</r> <r>[U]ดื้อ</r> <r>[U]ลือ</r> <r>[U]มึ</r> <r>[U]สื่อ</r> <r>[U]ดึ</r> <r>[U]บือ</r> <r>[U]ซื้อ</r> <r>[U]ซื้่อ</r> <r>[U]ปรือ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like เรือก?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][k]เหลือก</r> <r>[Ua][k]เทือก</r> <r>[Ua][k]เรือก</r> <r>[Ua][k]เลือก</r> <r>[Ua][k]เหยือก</r> <r>[Ua][k]เหรือก</r> <r>[Ua][k]เผือก</r> <r>[Ua][k]เงือก</r> <r>[Ua][k]เดือก</r> <r>[Ua][k]เกลือก</r> <r>[Ua][k]เฮือก</r> <r>[Ua][k]เกือก</r> <r>[Ua][k]เถือก</r> <r>[Ua][k]เปลือก</r> <r>[Ua][k]เสลือก</r> <r>[Ua][k]เยือก</r> <r>[Ua][k]เหงือก</r> <r>[Ua][k]เสือก</r> <r>[Ua][k]เฝือก</r> <r>[Ua][k]เชือก</r> <r>[Ua][k]เปือก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as ปึง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][N]อึ่ง</r> <r>[U][N]พึง</r> <r>[U][N]หึง</r> <r>[U][N]กึ่ง</r> <r>[U][N]ตรึง</r> <r>[U][N]ดึงษ์</r> <r>[U][N]ซึ้ง</r> <r>[U][N]ตรึงษ์</r> <r>[U][N]จึ่ง</r> <r>[U][N]หนื่ง</r> <r>[U][N]ดึ่ง</r> <r>[U][N]ลึงค์</r> <r>[U][N]ทึ่ง</r> <r>[U][N]ดึง</r> <r>[U][N]ปึ่ง</r> <r>[U][N]ปึง</r> <r>[U][N]คลึง</r> <r>[U][N]หนึ่ง</r> <r>[U][N]นึ่ง</r> <r>[U][N]ลึง</r> <r>[U][N]ทึง</r> <r>[U][N]ครึ่ง</r> <r>[U][N]ผึ่ง</r> <r>[U][N]ตรึงส์</r> <r>[U][N]ตึ๋ง</r> <r>[U][N]ขึ้ง</r> <r>[U][N]นึง</r> <r>[U][N]ขึง</r> <r>[U][N]บึง</r> <r>[U][N]ปรึง</r> <r>[U][N]ลึ่ง</r> <r>[U][N]ฉึ่ง</r> <r>[U][N]ซึ่ง</r> <r>[U][N]พึ่ง</r> <r>[U][N]บึ้ง</r> <r>[U][N]อึง</r> <r>[U][N]จึง</r> <r>[U][N]หึงส์</r> <r>[U][N]อึ้ง</r> <r>[U][N]ฮึง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as เข็ม?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][m]เกม</r> <r>[e][m]เล็ม</r> <r>[e][m]เท็ม</r> <r>[e][m]เทมส์</r> <r>[e][m]เด็ม</r> <r>[e][m]เกมส์</r> <r>[e][m]เษม</r> <r>[e][m]เจมส์</r> <r>[e][m]เข้ม</r> <r>[e][m]เอ็มส์</r> <r>[e][m]เล่ม</r> <r>[e][m]เกษม</r> <r>[e][m]เข็ม</r> <r>[e][m]เหม</r> <r>[e][m]เอ็ม</r> <r>[e][m]เต็ม</r> <r>[e][m]เขษม</r> <r>[e][m]เปรม</r> <r>[e][m]เย็ม</r> <r>[e][m]เอม</r> <r>[e][m]เค็ม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to ถอก."
+      },
+      {
+        "from": "model",
+        "content": "<r>[O][k]งอก</r> <r>[O][k]ศอก</r> <r>[O][k]ครอก</r> <r>[O][k]ช็อค</r> <r>[O][k]บ๋อก</r> <r>[O][k]ต๊อก</r> <r>[O][k]บอก</r> <r>[O][k]ตอก</r> <r>[O][k]รอก</r> <r>[O][k]ออก</r> <r>[O][k]พอก</r> <r>[O][k]ฉอก</r> <r>[O][k]ดอก</r> <r>[O][k]นอก</r> <r>[O][k]หงอก</r> <r>[O][k]ปลอก</r> <r>[O][k]กอก</r> <r>[O][k]ยอร์ก</r> <r>[O][k]จอก</r> <r>[O][k]ผอก</r> <r>[O][k]ทอก</r> <r>[O][k]ขอก</r> <r>[O][k]ร็อค</r> <r>[O][k]กลอก</r> <r>[O][k]พรอก</r> <r>[O][k]ตรอก</r> <r>[O][k]วอก</r> <r>[O][k]ล็อก</r> <r>[O][k]ถอก</r> <r>[O][k]ลอก</r> <r>[O][k]บ็อกซ์</r> <r>[O][k]หยอก</r> <r>[O][k]กรอก</r> <r>[O][k]ปอก</r> <r>[O][k]ซอก</r> <r>[O][k]ชอก</r> <r>[O][k]หอก</r> <r>[O][k]คลอก</r> <r>[O][k]หมอก</r> <r>[O][k]หลอก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like ชวด?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][t]ปวด</r> <r>[ua][t]ชวด</r> <r>[ua][t]ตรวจ</r> <r>[ua][t]ทรวด</r> <r>[ua][t]กรวด</r> <r>[ua][t]ลวด</r> <r>[ua][t]สวด</r> <r>[ua][t]บวช</r> <r>[ua][t]อวด</r> <r>[ua][t]ทวด</r> <r>[ua][t]รวจ</r> <r>[ua][t]ปรวด</r> <r>[ua][t]หวด</r> <r>[ua][t]กวศ</r> <r>[ua][t]หนวด</r> <r>[ua][t]หมวด</r> <r>[ua][t]ขวด</r> <r>[ua][t]รวด</r> <r>[ua][t]งวด</r> <r>[ua][t]กวด</r> <r>[ua][t]ยวด</r> <r>[ua][t]นวด</r> <r>[ua][t]พรวด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as เซื่อง?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][N]เฝือง</r> <r>[Ua][N]เทือง</r> <r>[Ua][N]เจือง</r> <r>[Ua][N]เหือง</r> <r>[Ua][N]เหมือง</r> <r>[Ua][N]เนือง</r> <r>[Ua][N]เฟื้อง</r> <r>[Ua][N]เครื่อง</r> <r>[Ua][N]เปลือง</r> <r>[Ua][N]เชื่อง</r> <r>[Ua][N]เมือง</r> <r>[Ua][N]เนื่อง</r> <r>[Ua][N]เงื่อง</r> <r>[Ua][N]เปลื้อง</r> <r>[Ua][N]เลือง</r> <r>[Ua][N]เสื้อง</r> <r>[Ua][N]เปรื่อง</r> <r>[Ua][N]เฟือง</r> <r>[Ua][N]เตื้อง</r> <r>[Ua][N]เลื่อง</r> <r>[Ua][N]เรือง</r> <r>[Ua][N]เฟื่อง</r> <r>[Ua][N]เยื้อง</r> <r>[Ua][N]เผือง</r> <r>[Ua][N]เอื้อง</r> <r>[Ua][N]เขื่อง</r> <r>[Ua][N]เซื่อง</r> <r>[Ua][N]เคือง</r> <r>[Ua][N]เบื้อง</r> <r>[Ua][N]เรื่อง</r> <r>[Ua][N]เดื่อง</r> <r>[Ua][N]เหลือง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with เหนี่ยว."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][w]เที่ยว</r> <r>[ia][w]เทียว</r> <r>[ia][w]เจียว</r> <r>[ia][w]เฉียว</r> <r>[ia][w]เรี่ยว</r> <r>[ia][w]เหี่ยว</r> <r>[ia][w]เกลียว</r> <r>[ia][w]เงี้ยว</r> <r>[ia][w]เดี๋ยว</r> <r>[ia][w]เคี้ยว</r> <r>[ia][w]เสี้ยว</r> <r>[ia][w]เหี้ยว</r> <r>[ia][w]เหลียว</r> <r>[ia][w]เยี่ยว</r> <r>[ia][w]เคียว</r> <r>[ia][w]เปี่ยว</r> <r>[ia][w]เซียว</r> <r>[ia][w]เบี้ยว</r> <r>[ia][w]เขี้ยว</r> <r>[ia][w]เหมี่ยว</r> <r>[ia][w]เหนี่ยว</r> <r>[ia][w]เครียว</r> <r>[ia][w]เฉลียว</r> <r>[ia][w]เรียว</r> <r>[ia][w]เตี่ยว</r> <r>[ia][w]เดียว</r> <r>[ia][w]เกี่ยว</r> <r>[ia][w]เกรียว</r> <r>[ia][w]เจี้ยว</r> <r>[ia][w]เลี้ยว</r> <r>[ia][w]เหมียว</r> <r>[ia][w]เขวียว</r> <r>[ia][w]เชี่ยว</r> <r>[ia][w]เสียว</r> <r>[ia][w]เหนียว</r> <r>[ia][w]เดี้ยว</r> <r>[ia][w]เปรี้ยว</r> <r>[ia][w]เคี่ยว</r> <r>[ia][w]เดี่ยว</r> <r>[ia][w]เรี้ยว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with ไง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][j]หม้าย</r> <r>[a][j]ฝ้าย</r> <r>[a][j]ใภ้</r> <r>[a][j]ไสย</r> <r>[a][j]ม้าย</r> <r>[a][j]ไม่</r> <r>[a][j]ไฟ</r> <r>[a][j]ขาย</r> <r>[a][j]หน่าย</r> <r>[a][j]ไกว</r> <r>[a][j]ใน</r> <r>[a][j]ใส่</r> <r>[a][j]สัย</r> <r>[a][j]มั้ย</r> <r>[a][j]ไผ่</r> <r>[a][j]ปราย</r> <r>[a][j]ไกล่</r> <r>[a][j]ไดรฟ์</r> <r>[a][j]ว่าย</r> <r>[a][j]ตาย</r> <r>[a][j]ไฮต์</r> <r>[a][j]ไซ้</r> <r>[a][j]ทัย</r> <r>[a][j]กราย</r> <r>[a][j]ยาย</r> <r>[a][j]ไปล่</r> <r>[a][j]ไอ</r> <r>[a][j]ไข</r> <r>[a][j]ไต้</r> <r>[a][j]ไป๋</r> <r>[a][j]ไฉ</r> <r>[a][j]ย้าย</r> <r>[a][j]ไวท์</r> <r>[a][j]ไซน์</r> <r>[a][j]อ่าย</r> <r>[a][j]ไลย</r> <r>[a][j]ไท</r> <r>[a][j]ไดร์</r> <r>[a][j]ไพร่</r> <r>[a][j]ไค้</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with ตรวจ in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][t]หวด</r> <r>[ua][t]ยวด</r> <r>[ua][t]สวด</r> <r>[ua][t]รวด</r> <r>[ua][t]บวช</r> <r>[ua][t]ชวด</r> <r>[ua][t]ปวด</r> <r>[ua][t]นวด</r> <r>[ua][t]พรวด</r> <r>[ua][t]อวด</r> <r>[ua][t]รวจ</r> <r>[ua][t]งวด</r> <r>[ua][t]ตรวจ</r> <r>[ua][t]ทรวด</r> <r>[ua][t]กวศ</r> <r>[ua][t]หนวด</r> <r>[ua][t]ลวด</r> <r>[ua][t]ขวด</r> <r>[ua][t]ทวด</r> <r>[ua][t]หมวด</r> <r>[ua][t]ปรวด</r> <r>[ua][t]กวด</r> <r>[ua][t]กรวด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like เหย."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][j]เฮ้ย</r> <r>[@][j]เกย</r> <r>[@][j]เสวย</r> <r>[@][j]เชลย</r> <r>[@][j]เคย</r> <r>[@][j]เอ๊ย</r> <r>[@][j]เหวย</r> <r>[@][j]เสย</r> <r>[@][j]เสบย</r> <r>[@][j]เฉย</r> <r>[@][j]เวย</r> <r>[@][j]เหย</r> <r>[@][j]เอ๋ย</r> <r>[@][j]เผย</r> <r>[@][j]เอ่ย</r> <r>[@][j]เมย</r> <r>[@][j]เลย</r> <r>[@][j]เทย</r> <r>[@][j]เปรย</r> <r>[@][j]เย้ย</r> <r>[@][j]เนย</r> <r>[@][j]เชย</r> <r>[@][j]เพย</r> <r>[@][j]เฉลย</r> <r>[@][j]เงย</r> <r>[@][j]เอย</r> <r>[@][j]เขย</r> <r>[@][j]เตย</r> <r>[@][j]เสิย</r> <r>[@][j]เลิย</r> <r>[@][j]เขนย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as แฮ?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[x]แงะ</r> <r>[x]แส</r> <r>[x]แห</r> <r>[x]แบ๊</r> <r>[x]แก่</r> <r>[x]แม้</r> <r>[x]แหย</r> <r>[x]แอ</r> <r>[x]แป๊ะ</r> <r>[x]แข</r> <r>[x]แหย่</r> <r>[x]แสะ</r> <r>[x]แช่</r> <r>[x]แนะ</r> <r>[x]แกระ</r> <r>[x]แจ๋</r> <r>[x]แป</r> <r>[x]แหน่</r> <r>[x]แบ</r> <r>[x]แส่</r> <r>[x]แป้</r> <r>[x]แตระ</r> <r>[x]แน่ะ</r> <r>[x]แย</r> <r>[x]แหง</r> <r>[x]แหม่</r> <r>[x]แขวะ</r> <r>[x]แหม</r> <r>[x]แกะ</r> <r>[x]แร้</r> <r>[x]แสม</r> <r>[x]แพร่</r> <r>[x]แช</r> <r>[x]แน่</r> <r>[x]แจ่</r> <r>[x]แหละ</r> <r>[x]แด</r> <r>[x]แย้</r> <r>[x]แกล</r> <r>[x]แล</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with กุ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u]บู</r> <r>[u]ครู</r> <r>[u]ซู</r> <r>[u]ถู</r> <r>[u]ณุ</r> <r>[u]ภู่</r> <r>[u]หุ</r> <r>[u]ตรู</r> <r>[u]สู่</r> <r>[u]ฝู</r> <r>[u]ขรุ</r> <r>[u]ปูล์</r> <r>[u]จู่</r> <r>[u]ลู</r> <r>[u]ผุ้</r> <r>[u]จุ</r> <r>[u]ฟู</r> <r>[u]ตรู่</r> <r>[u]ปุ</r> <r>[u]สู</r> <r>[u]กรู</r> <r>[u]กรุ</r> <r>[u]มู่</r> <r>[u]จู</r> <r>[u]อุ</r> <r>[u]จู๋</r> <r>[u]ณู</r> <r>[u]ภูมิ์</r> <r>[u]หู่</r> <r>[u]ธู</r> <r>[u]ธุ</r> <r>[u]คู่</r> <r>[u]ปู้</r> <r>[u]ชู</r> <r>[u]พู่</r> <r>[u]ยู</r> <r>[u]ภู</r> <r>[u]หรุ</r> <r>[u]มู</r> <r>[u]บูรณ์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with กริ้ว in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][w]ผิว</r> <r>[i][w]กริ้ว</r> <r>[i][w]คิว</r> <r>[i][w]ติ้ว</r> <r>[i][w]วิว</r> <r>[i][w]หลิ่ว</r> <r>[i][w]กริว</r> <r>[i][w]ทิว</r> <r>[i][w]ฉิว</r> <r>[i][w]งิ้ว</r> <r>[i][w]ปลิว</r> <r>[i][w]อิ้ว</r> <r>[i][w]หิ้ว</r> <r>[i][w]หวิว</r> <r>[i][w]นิว</r> <r>[i][w]ริ้ว</r> <r>[i][w]ติ๋ว</r> <r>[i][w]คิ้ว</r> <r>[i][w]สิว</r> <r>[i][w]มิว</r> <r>[i][w]ลิ่ว</r> <r>[i][w]จิ๋ว</r> <r>[i][w]พิว</r> <r>[i][w]หิว</r> <r>[i][w]ลิว</r> <r>[i][w]ผิ่ว</r> <r>[i][w]จิ้ว</r> <r>[i][w]คริว</r> <r>[i][w]ชิว</r> <r>[i][w]พลิ้ว</r> <r>[i][w]นิ่ว</r> <r>[i][w]ซิว</r> <r>[i][w]กิ่ว</r> <r>[i][w]นิ้ว</r> <r>[i][w]สิ่ว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with ซุง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[u][N]ลุ้ง</r> <r>[u][N]หนุง</r> <r>[u][N]ฝูง</r> <r>[u][N]พลุ่ง</r> <r>[u][N]ยุง</r> <r>[u][N]สูง</r> <r>[u][N]รุ่ง</r> <r>[u][N]จูง</r> <r>[u][N]จุ่ง</r> <r>[u][N]สุ้ง</r> <r>[u][N]ถุง</r> <r>[u][N]หนุ่ง</r> <r>[u][N]พุ้ง</r> <r>[u][N]ซุง</r> <r>[u][N]มุ่ง</r> <r>[u][N]ปุง</r> <r>[u][N]ทุ้ง</r> <r>[u][N]บุ้ง</r> <r>[u][N]นุ่ง</r> <r>[u][N]ชุง</r> <r>[u][N]ทุ่ง</r> <r>[u][N]พรุง</r> <r>[u][N]รุง</r> <r>[u][N]รุ้ง</r> <r>[u][N]ยูง</r> <r>[u][N]ฉุ่ง</r> <r>[u][N]ฟุ้ง</r> <r>[u][N]คลุ้ง</r> <r>[u][N]บุง</r> <r>[u][N]นุง</r> <r>[u][N]หุง</r> <r>[u][N]พุง</r> <r>[u][N]พรุ่ง</r> <r>[u][N]กุ้ง</r> <r>[u][N]ลุง</r> <r>[u][N]ปรุง</r> <r>[u][N]ฮุง</r> <r>[u][N]จุง</r> <r>[u][N]ผลุง</r> <r>[u][N]กรุง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like เซปท์?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][p]เสพย์</r> <r>[e][p]เห็บ</r> <r>[e][p]เล็บ</r> <r>[e][p]เข็บ</r> <r>[e][p]เทพ</r> <r>[e][p]เย็บ</r> <r>[e][p]เดฟ</r> <r>[e][p]เจ็บ</r> <r>[e][p]เสพ</r> <r>[e][p]เกบ</r> <r>[e][p]เทป</r> <r>[e][p]เจ้บ</r> <r>[e][p]เซปท์</r> <r>[e][p]เขป</r> <r>[e][p]เหน็บ</r> <r>[e][p]เก็บ</r> <r>[e][p]เว็บ</r> <r>[e][p]เสบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with ซิก in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][k]นิกส์</r> <r>[i][k]ปลีก</r> <r>[i][k]คิค</r> <r>[i][k]ยิก</r> <r>[i][k]ลิก</r> <r>[i][k]ดิก</r> <r>[i][k]อีก</r> <r>[i][k]สิก</r> <r>[i][k]ฟิค</r> <r>[i][k]นิก</r> <r>[i][k]ฉีก</r> <r>[i][k]พลิก</r> <r>[i][k]กรีก</r> <r>[i][k]ผีก</r> <r>[i][k]มฤก</r> <r>[i][k]ชิก</r> <r>[i][k]ปริก</r> <r>[i][k]จิก</r> <r>[i][k]อิก</r> <r>[i][k]กริก</r> <r>[i][k]พริก</r> <r>[i][k]ซีก</r> <r>[i][k]ดีก</r> <r>[i][k]หลีก</r> <r>[i][k]คิก</r> <r>[i][k]ลีก</r> <r>[i][k]ญิก</r> <r>[i][k]ซิก</r> <r>[i][k]หลิก</r> <r>[i][k]นิค</r> <r>[i][k]ผลิกซ์</r> <r>[i][k]วิก</r> <r>[i][k]หยิก</r> <r>[i][k]ฟิก</r> <r>[i][k]ภิก</r> <r>[i][k]ติก</r> <r>[i][k]ขิก</r> <r>[i][k]ปีก</r> <r>[i][k]ริก</r> <r>[i][k]ปฤก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What rhymes with งอย in Thai?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[O][j]กร่อย</r> <r>[O][j]บ้อย</r> <r>[O][j]ข้อย</r> <r>[O][j]ปรอย</r> <r>[O][j]ชอย</r> <r>[O][j]ม้อย</r> <r>[O][j]อ่อย</r> <r>[O][j]คล้อย</r> <r>[O][j]ง่อย</r> <r>[O][j]จ้อย</r> <r>[O][j]ผ็อย</r> <r>[O][j]ดรอย</r> <r>[O][j]งอย</r> <r>[O][j]ป่อย</r> <r>[O][j]ปอย</r> <r>[O][j]ผอย</r> <r>[O][j]จ๋อย</r> <r>[O][j]ต๋อย</r> <r>[O][j]ทอย</r> <r>[O][j]ตอย</r> <r>[O][j]บ๋อย</r> <r>[O][j]บ่อย</r> <r>[O][j]ถ้อย</r> <r>[O][j]คอย</r> <r>[O][j]นอยซ์</r> <r>[O][j]กร๋อย</r> <r>[O][j]สร้อย</r> <r>[O][j]ซอย</r> <r>[O][j]ย้อย</r> <r>[O][j]ล่อย</r> <r>[O][j]ฝอย</r> <r>[O][j]ลอย</r> <r>[O][j]พลอย</r> <r>[O][j]ช้อย</r> <r>[O][j]พร้อย</r> <r>[O][j]ลอยด์</r> <r>[O][j]กรอย</r> <r>[O][j]นอย</r> <r>[O][j]พรอย</r> <r>[O][j]กลอย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with เหลิง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[@][N]เลิง</r> <r>[@][N]เวิ้ง</r> <r>[@][N]เพิง</r> <r>[@][N]เชิง</r> <r>[@][N]เซิง</r> <r>[@][N]เถลิง</r> <r>[@][N]เจิ่ง</r> <r>[@][N]เทิ่ง</r> <r>[@][N]เกิง</r> <r>[@][N]เบิ่ง</r> <r>[@][N]เพลิง</r> <r>[@][N]เวิง</r> <r>[@][N]เจิง</r> <r>[@][N]เติ่ง</r> <r>[@][N]เหลิง</r> <r>[@][N]เอ้องค์</r> <r>[@][N]เทิง</r> <r>[@][N]เหยิง</r> <r>[@][N]เริง</r> <r>[@][N]เปิง</r> <r>[@][N]เพิ่ง</r> <r>[@][N]เลิ้ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as โอ่ง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][N]สง</r> <r>[o][N]โยง</r> <r>[o][N]โมง</r> <r>[o][N]ดงค์</r> <r>[o][N]โหม่ง</r> <r>[o][N]ชงฆ์</r> <r>[o][N]คง</r> <r>[o][N]โง้ง</r> <r>[o][N]โปง</r> <r>[o][N]กง</r> <r>[o][N]องค์</r> <r>[o][N]โคร่ง</r> <r>[o][N]โผง</r> <r>[o][N]มงค์</r> <r>[o][N]รงค์</r> <r>[o][N]ชงฆ์พ</r> <r>[o][N]โจ๋ง</r> <r>[o][N]ฟ้ง</r> <r>[o][N]หยง</r> <r>[o][N]วงษ์</r> <r>[o][N]โคง</r> <r>[o][N]ตรง</r> <r>[o][N]โฉ่ง</r> <r>[o][N]โขลง</r> <r>[o][N]หน่ง</r> <r>[o][N]ผง</r> <r>[o][N]โว่ง</r> <r>[o][N]โค้ง</r> <r>[o][N]หรง</r> <r>[o][N]โห่ง</r> <r>[o][N]โพล่ง</r> <r>[o][N]โดง</r> <r>[o][N]บง</r> <r>[o][N]วงศ์</r> <r>[o][N]โหง</r> <r>[o][N]ธง</r> <r>[o][N]พงศ์</r> <r>[o][N]โพลง</r> <r>[o][N]บงสุ์</r> <r>[o][N]โก้ง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like เดือย?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][j]เหมือย</r> <r>[Ua][j]เลื้อย</r> <r>[Ua][j]เอื่อย</r> <r>[Ua][j]เอื้อย</r> <r>[Ua][j]เดือย</r> <r>[Ua][j]เจื่อย</r> <r>[Ua][j]เหือย</r> <r>[Ua][j]เนือย</r> <r>[Ua][j]เลื่อย</r> <r>[Ua][j]เหนื่อย</r> <r>[Ua][j]เจื้อย</r> <r>[Ua][j]เมื่อย</r> <r>[Ua][j]เปลือย</r> <r>[Ua][j]เฟือย</r> <r>[Ua][j]เปื่อย</r> <r>[Ua][j]เฉื่อย</r> <r>[Ua][j]เรื่อย</r> <r>[Ua][j]เฟื้อย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with เหลือบ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][p]เกือบ</r> <r>[Ua][p]เหลือบ</r> <r>[Ua][p]เคลือบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to เด้ว."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][w]เขว</r> <r>[e][w]เหว</r> <r>[e][w]เอว</r> <r>[e][w]เร็ว</r> <r>[e][w]เลว</r> <r>[e][w]เฉลว</r> <r>[e][w]เล่ว</r> <r>[e][w]เปลว</r> <r>[e][w]เด้ว</r> <r>[e][w]เหลว</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to แบ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[x]แร่</r> <r>[x]แประ</r> <r>[x]แต้</r> <r>[x]แน่ะ</r> <r>[x]แม่</r> <r>[x]แปล</r> <r>[x]แพร</r> <r>[x]แห่</r> <r>[x]แช</r> <r>[x]แพร่</r> <r>[x]แวร์</r> <r>[x]แซ</r> <r>[x]แสะ</r> <r>[x]แซ่</r> <r>[x]แป้</r> <r>[x]แฉ่</r> <r>[x]แปล้</r> <r>[x]แซะ</r> <r>[x]แห้</r> <r>[x]แหม่</r> <r>[x]แม้</r> <r>[x]แพ</r> <r>[x]แป๊ะ</r> <r>[x]แส</r> <r>[x]แบ</r> <r>[x]แย่</r> <r>[x]แหล่</r> <r>[x]แฮร์</r> <r>[x]แหร่</r> <r>[x]แสม</r> <r>[x]แหน่</r> <r>[x]แร้</r> <r>[x]แจ้</r> <r>[x]แก้</r> <r>[x]แค</r> <r>[x]แก</r> <r>[x]แตะ</r> <r>[x]แจ่</r> <r>[x]แง่</r> <r>[x]แหย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as เชษ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][t]เมต</r> <r>[e][t]เพ็ช</r> <r>[e][t]เกศ</r> <r>[e][t]เกต</r> <r>[e][t]เพท</r> <r>[e][t]เลต</r> <r>[e][t]เศษ</r> <r>[e][t]เพชร</r> <r>[e][t]เวส</r> <r>[e][t]เชษฐ</r> <r>[e][t]เอ็ด</r> <r>[e][t]เกตุ</r> <r>[e][t]เทวษ</r> <r>[e][t]เค็ด</r> <r>[e][t]เพชญ์</r> <r>[e][t]เทศ</r> <r>[e][t]เห็ด</r> <r>[e][t]เพ็ชร</r> <r>[e][t]เทศน์</r> <r>[e][t]เฉด</r> <r>[e][t]เกษ</r> <r>[e][t]เพ็ธ</r> <r>[e][t]เขต</r> <r>[e][t]เขบ็ด</r> <r>[e][t]เพชญ</r> <r>[e][t]เมธ</r> <r>[e][t]เมด</r> <r>[e][t]เชส</r> <r>[e][t]เวศ</r> <r>[e][t]เนต</r> <r>[e][t]เหร็จ</r> <r>[e][t]เกร็ด</r> <r>[e][t]เวต</r> <r>[e][t]เอช</r> <r>[e][t]เมศ</r> <r>[e][t]เก็ด</r> <r>[e][t]หเรศ</r> <r>[e][t]เกจ</r> <r>[e][t]เห็จ</r> <r>[e][t]เช็ด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with ซี."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i]ซี</r> <r>[i]จิ</r> <r>[i]หนี้</r> <r>[i]ซิ</r> <r>[i]หรี่</r> <r>[i]ลิ</r> <r>[i]พิ</r> <r>[i]ณิ</r> <r>[i]ฐิ</r> <r>[i]ภี</r> <r>[i]ฬี</r> <r>[i]ฬิ</r> <r>[i]ฟี</r> <r>[i]คิ</r> <r>[i]หมี</r> <r>[i]งิ</r> <r>[i]หรี</r> <r>[i]มีย์</r> <r>[i]ตี</r> <r>[i]ฑี</r> <r>[i]หวี่</r> <r>[i]ผี่</r> <r>[i]ติย์</r> <r>[i]ฐี</r> <r>[i]บี้</r> <r>[i]นี้</r> <r>[i]คลี</r> <r>[i]คี้</r> <r>[i]ฉี่</r> <r>[i]กิ</r> <r>[i]จี้</r> <r>[i]ซี่</r> <r>[i]ถิ</r> <r>[i]สีห์</r> <r>[i]ศีร</r> <r>[i]ธี</r> <r>[i]ยิ</r> <r>[i]พลี</r> <r>[i]รีส์</r> <r>[i]ปี้</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like บรรพ?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[a][p]คับ</r> <r>[a][p]หับ</r> <r>[a][p]หาบ</r> <r>[a][p]บาป</r> <r>[a][p]ครับ</r> <r>[a][p]ตรับ</r> <r>[a][p]ฮับ</r> <r>[a][p]ดับ</r> <r>[a][p]หมับ</r> <r>[a][p]ศราพ</r> <r>[a][p]หลาบ</r> <r>[a][p]ภัพ</r> <r>[a][p]อาบ</r> <r>[a][p]ยาบ</r> <r>[a][p]ลัพธ์</r> <r>[a][p]สรรพ</r> <r>[a][p]ศัพท์</r> <r>[a][p]ลาป</r> <r>[a][p]ชับ</r> <r>[a][p]พับ</r> <r>[a][p]หยาบ</r> <r>[a][p]ผ้าพ</r> <r>[a][p]ทราบ</r> <r>[a][p]คาบ</r> <r>[a][p]หราบ</r> <r>[a][p]กราฟ</r> <r>[a][p]ขับ</r> <r>[a][p]คราบ</r> <r>[a][p]อัป</r> <r>[a][p]สับ</r> <r>[a][p]วาบ</r> <r>[a][p]หลับ</r> <r>[a][p]จับ</r> <r>[a][p]ปลาบ</r> <r>[a][p]ซาบ</r> <r>[a][p]สัพ</r> <r>[a][p]ถาบ</r> <r>[a][p]ทรัพย์</r> <r>[a][p]สาป</r> <r>[a][p]หนับ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as ต้วม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][m]ร่วม</r> <r>[ua][m]กวม</r> <r>[ua][m]รวม</r> <r>[ua][m]งวม</r> <r>[ua][m]ต๋วม</r> <r>[ua][m]บวม</r> <r>[ua][m]สวม</r> <r>[ua][m]นวม</r> <r>[ua][m]หลวม</r> <r>[ua][m]น่วม</r> <r>[ua][m]ป๋วม</r> <r>[ua][m]ส้วม</r> <r>[ua][m]ต้วม</r> <r>[ua][m]สรวม</r> <r>[ua][m]ท่วม</r> <r>[ua][m]ล่วม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show some example words that rhyme with เปียก."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][k]เปียก</r> <r>[ia][k]เพรียก</r> <r>[ia][k]เกียก</r> <r>[ia][k]เหนียก</r> <r>[ia][k]เจียก</r> <r>[ia][k]เกรียก</r> <r>[ia][k]เยียก</r> <r>[ia][k]เรียก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with เผือง."
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][N]เฟื่อง</r> <r>[Ua][N]เคือง</r> <r>[Ua][N]เหลือง</r> <r>[Ua][N]เตื้อง</r> <r>[Ua][N]เขื่อง</r> <r>[Ua][N]เฟื้อง</r> <r>[Ua][N]เมือง</r> <r>[Ua][N]เสื้อง</r> <r>[Ua][N]เดื่อง</r> <r>[Ua][N]เปลื้อง</r> <r>[Ua][N]เฟือง</r> <r>[Ua][N]เครื่อง</r> <r>[Ua][N]เลื่อง</r> <r>[Ua][N]เลือง</r> <r>[Ua][N]เนื่อง</r> <r>[Ua][N]เรือง</r> <r>[Ua][N]เงื่อง</r> <r>[Ua][N]เรื่อง</r> <r>[Ua][N]เนือง</r> <r>[Ua][N]เทือง</r> <r>[Ua][N]เปลือง</r> <r>[Ua][N]เฝือง</r> <r>[Ua][N]เจือง</r> <r>[Ua][N]เผือง</r> <r>[Ua][N]เปรื่อง</r> <r>[Ua][N]เซื่อง</r> <r>[Ua][N]เยื้อง</r> <r>[Ua][N]เอื้อง</r> <r>[Ua][N]เหมือง</r> <r>[Ua][N]เบื้อง</r> <r>[Ua][N]เหือง</r> <r>[Ua][N]เชื่อง</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which Thai words share the same ending sound as เซ้ย?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[e][j]เบย</r> <r>[e][j]เซ้ย</r> <r>[e][j]เม้ย</r> <r>[e][j]เล่ย</r> <r>[e][j]เช้ย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "List all Thai words that could rhyme with หลวม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ua][m]ท่วม</r> <r>[ua][m]บวม</r> <r>[ua][m]ต้วม</r> <r>[ua][m]รวม</r> <r>[ua][m]ส้วม</r> <r>[ua][m]สรวม</r> <r>[ua][m]ต๋วม</r> <r>[ua][m]นวม</r> <r>[ua][m]งวม</r> <r>[ua][m]หลวม</r> <r>[ua][m]ป๋วม</r> <r>[ua][m]กวม</r> <r>[ua][m]สวม</r> <r>[ua][m]ล่วม</r> <r>[ua][m]ร่วม</r> <r>[ua][m]น่วม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "What are some Thai words that end phonetically like เนอร์?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[@]เดอ</r> <r>[@]เร่อ</r> <r>[@]เภอ</r> <r>[@]เรอ</r> <r>[@]เหลอ</r> <r>[@]เครอะ</r> <r>[@]เธอ</r> <r>[@]เยอ</r> <r>[@]เลอ</r> <r>[@]เกลอ</r> <r>[@]เงอะ</r> <r>[@]เหนอ</r> <r>[@]เจ้อ</r> <r>[@]เซอ</r> <r>[@]เทอะ</r> <r>[@]เย่อ</r> <r>[@]เก้อ</r> <r>[@]เออะ</r> <r>[@]เคอะ</r> <r>[@]เนอร์</r> <r>[@]เพ่อ</r> <r>[@]เง้อ</r> <r>[@]เล่อ</r> <r>[@]เถ่อ</r> <r>[@]เสนอ</r> <r>[@]เปอ</r> <r>[@]เทอร์</r> <r>[@]เว่อร์</r> <r>[@]เซ่อ</r> <r>[@]เฟอะ</r> <r>[@]เซอะ</r> <r>[@]เดอะ</r> <r>[@]เตอร์ม</r> <r>[@]เวอ</r> <r>[@]เยอร์</r> <r>[@]เผลอ</r> <r>[@]เสมอ</r> <r>[@]เอ้อ</r> <r>[@]เผอ</r> <r>[@]เหน่อ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with น้อย."
+      },
+      {
+        "from": "model",
+        "content": "<r>[O][j]ฟ่อย</r> <r>[O][j]ลอยด์</r> <r>[O][j]ปล่อย</r> <r>[O][j]กร่อย</r> <r>[O][j]จ่อย</r> <r>[O][j]ทอย</r> <r>[O][j]สอย</r> <r>[O][j]ม่อย</r> <r>[O][j]ว่อย</r> <r>[O][j]บ่อย</r> <r>[O][j]ปอย</r> <r>[O][j]จ๋อย</r> <r>[O][j]ผ็อย</r> <r>[O][j]ย้อย</r> <r>[O][j]น้อย</r> <r>[O][j]ม้อย</r> <r>[O][j]หน่อย</r> <r>[O][j]หอย</r> <r>[O][j]ตอย</r> <r>[O][j]บ้อย</r> <r>[O][j]ซอย</r> <r>[O][j]ชอย</r> <r>[O][j]หง่อย</r> <r>[O][j]จ้อย</r> <r>[O][j]ค่อย</r> <r>[O][j]ช้อย</r> <r>[O][j]นอยซ์</r> <r>[O][j]อ่อย</r> <r>[O][j]ร้อย</r> <r>[O][j]บอย</r> <r>[O][j]ผอย</r> <r>[O][j]ดอย</r> <r>[O][j]ข้อย</r> <r>[O][j]คล้อย</r> <r>[O][j]อ้อย</r> <r>[O][j]พล่อย</r> <r>[O][j]สร้อย</r> <r>[O][j]ถ่อย</r> <r>[O][j]ก๋อย</r> <r>[O][j]น่อย</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Which words are in the same rhyme group as เปะ?"
+      },
+      {
+        "from": "model",
+        "content": "<r>[e]เฉ</r> <r>[e]เต</r> <r>[e]เบ้</r> <r>[e]เพล้</r> <r>[e]เหม่</r> <r>[e]เดย์</r> <r>[e]เก</r> <r>[e]เกอร์</r> <r>[e]เห</r> <r>[e]เละ</r> <r>[e]เม่</r> <r>[e]เคล้</r> <r>[e]เชษฐ์</r> <r>[e]เน</r> <r>[e]เห่</r> <r>[e]เป๋</r> <r>[e]เว้</r> <r>[e]เวย์</r> <r>[e]เก๋</r> <r>[e]เรย์</r> <r>[e]เพ</r> <r>[e]เฮ</r> <r>[e]เว่</r> <r>[e]เท่</r> <r>[e]เว</r> <r>[e]เท</r> <r>[e]เก้</r> <r>[e]เช</r> <r>[e]เข้</r> <r>[e]เข</r> <r>[e]เย่</r> <r>[e]เม</r> <r>[e]เภ</r> <r>[e]เถ</r> <r>[e]เซ</r> <r>[e]เอ</r> <r>[e]เอะ</r> <r>[e]เย้</r> <r>[e]เหร่</r> <r>[e]เล่ห์</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to ยืด."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][t]ฮึด</r> <r>[U][t]พฤติ</r> <r>[U][t]ยืด</r> <r>[U][t]ฮืด</r> <r>[U][t]ตืด</r> <r>[U][t]จืด</r> <r>[U][t]พืด</r> <r>[U][t]ฝืด</r> <r>[U][t]ปึด</r> <r>[U][t]มืด</r> <r>[U][t]ผืด</r> <r>[U][t]พืช</r> <r>[U][t]หืด</r> <r>[U][t]อืด</r> <r>[U][t]ยึด</r> <r>[U][t]อึด</r> <r>[U][t]ทึด</r> <r>[U][t]ชืด</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Give Thai words with a similar final sound to คินทร์."
+      },
+      {
+        "from": "model",
+        "content": "<r>[i][n]สินทร์</r> <r>[i][n]ลิน</r> <r>[i][n]ควินน์</r> <r>[i][n]สินธุ์</r> <r>[i][n]สินฑ์</r> <r>[i][n]จีน</r> <r>[i][n]กิน</r> <r>[i][n]กลิ่น</r> <r>[i][n]จิณ</r> <r>[i][n]กลิ้น</r> <r>[i][n]สิญจน์</r> <r>[i][n]หลิน</r> <r>[i][n]ภิร</r> <r>[i][n]นี่น</r> <r>[i][n]คิ่น</r> <r>[i][n]ริ้น</r> <r>[i][n]ฝิ่น</r> <r>[i][n]ดิ้น</r> <r>[i][n]ษิณ</r> <r>[i][n]ธิน</r> <r>[i][n]จิน</r> <r>[i][n]นิล</r> <r>[i][n]วินทร์</r> <r>[i][n]มิน</r> <r>[i][n]สิล</r> <r>[i][n]ศีล</r> <r>[i][n]ผิน</r> <r>[i][n]ภิญ</r> <r>[i][n]ปีน</r> <r>[i][n]ปลิ้น</r> <r>[i][n]วิน</r> <r>[i][n]ซิ่น</r> <r>[i][n]ฆิน</r> <r>[i][n]มินทร์</r> <r>[i][n]ตีน</r> <r>[i][n]ทิ่น</r> <r>[i][n]ศิน</r> <r>[i][n]บิน</r> <r>[i][n]บิล</r> <r>[i][n]ชิน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with ทืบ."
+      },
+      {
+        "from": "model",
+        "content": "<r>[U][p]สืบ</r> <r>[U][p]ทึบ</r> <r>[U][p]หลืบ</r> <r>[U][p]คืบ</r> <r>[U][p]พรึบ</r> <r>[U][p]พึบ</r> <r>[U][p]ทืบ</r> <r>[U][p]ฮึบ</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Provide a list of Thai words that rhyme like เหลื่อม."
+      },
+      {
+        "from": "model",
+        "content": "<r>[Ua][m]เชื่อม</r> <r>[Ua][m]เลื่อม</r> <r>[Ua][m]เทื้อม</r> <r>[Ua][m]เสื่อม</r> <r>[Ua][m]เหลือม</r> <r>[Ua][m]เงื้อม</r> <r>[Ua][m]เงื่อม</r> <r>[Ua][m]เอือม</r> <r>[Ua][m]เอื้อม</r> <r>[Ua][m]เหลื่อม</r> <r>[Ua][m]เพื่อม</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Find Thai words that rhyme with เปียก."
+      },
+      {
+        "from": "model",
+        "content": "<r>[ia][k]เยียก</r> <r>[ia][k]เกรียก</r> <r>[ia][k]เรียก</r> <r>[ia][k]เปียก</r> <r>[ia][k]เพรียก</r> <r>[ia][k]เจียก</r> <r>[ia][k]เหนียก</r> <r>[ia][k]เกียก</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "content": "Show me words that have the same rhyme as ทนต์."
+      },
+      {
+        "from": "model",
+        "content": "<r>[o][n]มนตร์</r> <r>[o][n]ถรณ์</r> <r>[o][n]ชนม</r> <r>[o][n]โคน</r> <r>[o][n]อ้น</r> <r>[o][n]ทนต์</r> <r>[o][n]สนธิ์</r> <r>[o][n]ปน</r> <r>[o][n]ยน</r> <r>[o][n]โป่น</r> <r>[o][n]ชล</r> <r>[o][n]ส้น</r> <r>[o][n]ชนม์</r> <r>[o][n]มณ</r> <r>[o][n]โย้น</r> <r>[o][n]กนธ์</r> <r>[o][n]โขลน</r> <r>[o][n]รณ</r> <r>[o][n]ก่น</r> <r>[o][n]นล</r> <r>[o][n]จ้น</r> <r>[o][n]ผล</r> <r>[o][n]ร้น</r> <r>[o][n]มล</r> <r>[o][n]หม่น</r> <r>[o][n]พล</r> <r>[o][n]ธน</r> <r>[o][n]ถร</r> <r>[o][n]โมน</r> <r>[o][n]ป่น</r> <r>[o][n]ปรน</r> <r>[o][n]ท้น</r> <r>[o][n]บร</r> <r>[o][n]ดล</r> <r>[o][n]โค่น</r> <r>[o][n]โขน</r> <r>[o][n]ซ่น</r> <r>[o][n]นนท์</r> <r>[o][n]ชนต์</r> <r>[o][n]วน</r> "
+      }
+    ],
+    "system": "You are an AI specialized in Thai rhyming patterns. When asked to find words with a specific rhyme pattern or words that rhyme with a given word, provide a list of words that share the same ending vowel and consonant sound. Format your response using rhyme tags in the format <r>[vowel][ending consonant]word</r>."
+  }
+]

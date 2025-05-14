@@ -1,4 +1,114 @@
 {
+  "klon8_no_instruction_train_tagged": {
+    "file_name": "klon8_data/non_instruct_tagged_train_pretrain.json"
+  },
+  "klon8_no_instruction_valid_tagged": {
+    "file_name": "klon8_data/non_instruct_tagged_valid_pretrain.json"
+  },
+  "klon8_instruction_train_tagged": {
+    "file_name": "klon8_data/instruct_tagged_train_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_valid_tagged": {
+    "file_name": "klon8_data/instruct_tagged_valid_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_train_untagged": {
+    "file_name": "klon8_data/instruct_untagged_train_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_valid_untagged": {
+    "file_name": "klon8_data/instruct_untagged_valid_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_train_phonetic_nmt": {
+    "file_name": "klon8_data/instruct_phonetic_nmt_train_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_valid_phonetic_nmt": {
+    "file_name": "klon8_data/instruct_phonetic_nmt_valid_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_train_rhyme_syllable": {
+    "file_name": "klon8_data/instruct_rhyme_syllables_train_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
+  "klon8_instruction_valid_rhyme_syllable": {
+    "file_name": "klon8_data/instruct_rhyme_syllables_valid_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
+    "tags": {
+      "role_tag": "from",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "model"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
