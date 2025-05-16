@@ -12,7 +12,8 @@ lora_target: q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj,lm_head,emb
 # dataset
 dataset: klon8_instruction_train_tagged,klon8_instruction_train_phonetic_nmt
 template: llama3
-cutoff_len: 1024
+cutoff_len: 2048
+max_samples: 20000
 overwrite_cache: true
 preprocessing_num_workers: 2
 dataloader_num_workers: 4
@@ -20,7 +21,8 @@ dataloader_num_workers: 4
 # output
 output_dir: saves/llama3.2-typhoon2-1b-instruct-lora-klon8-nmt
 logging_steps: 20
-save_steps: 625
+save_strategy: epoch
+# save_steps: 625
 plot_loss: true
 overwrite_output_dir: false
 save_only_model: false
