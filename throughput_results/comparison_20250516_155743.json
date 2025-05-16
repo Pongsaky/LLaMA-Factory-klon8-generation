@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250516_155743",
+  "base_model_id": "Pongsaky/llama3.2-typhoon2-1b-instruct-lora-klon8-nmt",
+  "full_model_id": "Pongsaky/llama3.2-typhoon2-1b-instruct-tagged_nmt-mixed",
+  "prompt": "\u0e40\u0e02\u0e35\u0e22\u0e19\u0e01\u0e25\u0e2d\u0e19\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e2b\u0e19\u0e38\u0e48\u0e21\u0e2b\u0e19\u0e38\u0e48\u0e21",
+  "max_new_tokens": 100,
+  "num_runs": 5,
+  "lora_throughput": 19.639543007407802,
+  "full_throughput": 22.128580157541574,
+  "speedup_percentage": -11.248065318305079
+}

@@ -6,6 +6,7 @@ trust_remote_code: trust_remote_code
 stage: sft
 do_train: true
 finetuning_type: lora
+deepspeed: examples/deepspeed/ds_z3_config.json  # choices: [ds_z0_config.json, ds_z2_config.json, ds_z3_config.json]
 lora_rank: 64
 lora_target: q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj,lm_head,embed_tokens
 
@@ -15,8 +16,8 @@ template: llama3
 cutoff_len: 2048
 max_samples: 20000
 overwrite_cache: true
-preprocessing_num_workers: 2
-dataloader_num_workers: 4
+preprocessing_num_workers: 4
+dataloader_num_workers: 2
 
 # output
 output_dir: saves/llama3.2-typhoon2-1b-instruct-lora-klon8-nmt
@@ -30,8 +31,8 @@ report_to: wandb
 run_name: llama3.2-typhoon2-1b-instruct-lora-klon8-nmt
 
 # train
-per_device_train_batch_size: 64
-gradient_accumulation_steps: 1
+per_device_train_batch_size: 16
+gradient_accumulation_steps: 4
 learning_rate: 2.0e-4
 num_train_epochs: 2.0
 lr_scheduler_type: cosine
@@ -43,6 +44,6 @@ resume_from_checkpoint: null
 # eval
 eval_dataset: klon8_instruction_valid_tagged,klon8_instruction_valid_phonetic_nmt
 # val_size: 0.1
-per_device_eval_batch_size: 64
+per_device_eval_batch_size: 16
 eval_strategy: steps
-eval_steps: 625
+eval_steps: 150
