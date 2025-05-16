@@ -1,0 +1,46 @@
+# model
+model_name_or_path: Pongsaky/llama3.2-typhoon2-1b-instruct-klon8-llama_factory
+trust_remote_code: trust_remote_code
+
+# method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 64
+lora_target: q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj,lm_head,embed_tokens
+
+# dataset
+dataset: klon8_instruction_train_tagged,klon8_instruction_train_phonetic_nmt
+template: llama3
+cutoff_len: 1024
+overwrite_cache: true
+preprocessing_num_workers: 2
+dataloader_num_workers: 4
+
+# output
+output_dir: saves/llama3.2-typhoon2-1b-instruct-lora-klon8-nmt
+logging_steps: 20
+save_steps: 625
+plot_loss: true
+overwrite_output_dir: false
+save_only_model: false
+report_to: wandb
+run_name: llama3.2-typhoon2-1b-instruct-lora-klon8-nmt
+
+# train
+per_device_train_batch_size: 64
+gradient_accumulation_steps: 1
+learning_rate: 2.0e-4
+num_train_epochs: 2.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+# eval
+eval_dataset: klon8_instruction_valid_tagged,klon8_instruction_valid_phonetic_nmt
+# val_size: 0.1
+per_device_eval_batch_size: 64
+eval_strategy: steps
+eval_steps: 625
