@@ -32,7 +32,7 @@ def compare_models(base_model_id, full_model_id, prompt, max_new_tokens, num_run
         prompt,
         max_new_tokens,
         num_runs,
-        use_lora=False
+        use_lora=True
     )
     
     print("\nTesting full fine-tuned model...")

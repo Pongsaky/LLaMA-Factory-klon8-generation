@@ -24,17 +24,17 @@ def measure_throughput(model_id, prompt, max_new_tokens=100, num_runs=5, use_lor
     
     # Configure model loading based on whether LoRA is used
     if use_lora:
-        from peft import PeftModel, PeftConfig
+        from peft import AutoPeftModelForCausalLM
         
         print(f"Loading base model for LoRA")
-        model = AutoModelForCausalLM.from_pretrained(
+        model = AutoPeftModelForCausalLM.from_pretrained(
             model_id,
-            # torch_dtype=torch.float16,
+            tie_word_embeddings=False,
+            torch_dtype=torch.float16,
             device_map="auto"
         )
+        model = model.merge_and_unload()
         
-        print(f"Loading LoRA weights from: {lora_weights}")
-        model = PeftModel.from_pretrained(model, lora_weights)
     else:
         print("Loading full model")
         model = AutoModelForCausalLM.from_pretrained(
@@ -55,11 +55,13 @@ def measure_throughput(model_id, prompt, max_new_tokens=100, num_runs=5, use_lor
     
     # Tokenize the prompt
     input_ids = tokenizer.apply_chat_template(messages, add_generation_prompt=True,padding=True, return_tensors="pt").to(model.device)
+    attention_mask = (input_ids != tokenizer.pad_token_id).long().to(model.device)
     # Warm-up run to ensure GPU is at full speed
     print("Performing warm-up run...")
     with torch.no_grad():
         _ = model.generate(
             input_ids,
+            attention_mask=attention_mask,
             max_new_tokens=20,
             do_sample=True,
             temperature=0.7
@@ -78,6 +80,7 @@ def measure_throughput(model_id, prompt, max_new_tokens=100, num_runs=5, use_lor
         with torch.no_grad():
             output = model.generate(
                 input_ids,
+                attention_mask=attention_mask,
                 max_new_tokens=max_new_tokens,
                 do_sample=True,
                 temperature=0.7
